@@ -1,0 +1,22 @@
+= Architecte de Solution
+
+[informations]
+== !
+include::./fr/_profile.adoc[]
+
+include::./fr/_contact.adoc[]
+
+include::./fr/_languages.adoc[]
+
+include::./fr/_expertises.adoc[]
+
+include::./fr/_/achievements.adoc[]
+
+include::./fr/_references.adoc[]
+
+[experiences]
+== !
+
+include::./fr/_experiences.adoc[]
+
+include::./fr/_education.adoc[]
