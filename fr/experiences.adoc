@@ -30,8 +30,8 @@
 - Developing on Tax Portal, Integration of Swiss customers into the portal, Taxman 2 and Taxman 3 (Created Taxman 3 architecture) and 871m (using architecture based on Taxman 3)
 - Coordinating integration with customers documentation team
 
-==== Senior Java Developer
-*Gemalto (Montreal, QC)* - 2007/2011
+==== Développeur Java Sénior - *Permanent*
+*Gemalto (Montréal, QC)* - 2007/2011
 
 ==== Architecte J2EE - *Consultant*
 *Lefebvre Software (France)* - 2006/2007
