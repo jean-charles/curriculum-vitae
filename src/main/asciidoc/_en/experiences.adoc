@@ -1,0 +1,389 @@
+// tag::title[]
+= Expériences
+
+== Architecte de Solution - *Consultant*
+*Banque Nationale, Montreal (QC)* - 2022/2023
+
+// end::title[]
+
+=== Assurances
+* Designing Insurance holdings API used by CRM (SAP) in clients holdings page (using Open API 3 and Async API 2 specifications)
+* Writing architecture documentation on Confluence using Draw.io
+* Coordinated discussion with domain architect and CRM team
+* Prototyping AWS EKS micro services (Java, WebFlux and istio)
+* Supporting developers
+
+Environnement::
+* 
+
+=== BNE
+* Designing architecture for GCC Integration, BNE Holding, Customer Cash Management, Mastercard notifications and TFC products and BackBase Employee App integration with Azure AD and IIQ
+* Writing architecture documentation on Confluence using Draw.io
+* Presenting architecture to all BNC architect (AAA meeting)
+* Supporting developers
+
+Environnement::
+* 
+
+// tag::title[]
+== Architecte Logiciels - *Consultant*
+*Banque Nationale, Montreal (QC)* - 2021
+
+// end::title[]
+
+=== BNE
+* Designing a software architecture to synchronize old MS SQL Server with MDM-AE using AWS micro-services (EKS)
+* Managing of a GitHub repo to centralize OpenAPI files to force contract first development (used by old BNE squads)
+
+Services numériques aux entreprisesServices numériques aux entreprises
+Compétences : Intégration de systèmes · ArchitectureCompétences
+
+
+
+
+Canaux numériques entreprises
+
+
+
+Helping clients achieve their software development objectives with design, architecture, and technical leadership in the cloud.
+
+Owner of ThoughtFlow Solutions Inc.Helping clients achieve their software development objectives with design, architecture, and technical leadership in the cloud. Owner of ThoughtFlow Solutions Inc.
+Compétences : Amazon S3 · Identity & Access Management (IAM) · DevOps · Amazon Simple Notification Service (SNS) · Amazon Web Services (AWS)
+
+
+En mission à la Banque Nationale du Canada / Département "Canal Numérique Entreprise"
+
+Techlead et architecte Java / DevSeOps d'une squad d'~ 15 membres.
+
+Environnement SAFe (équipe applicative de plus de 100 collaborateurs).
+Java 11, Spring webflux / Reactor, Kubernetes, Docker, EKS, AWS, SQS, Kafka
+
+Environnement::
+* 
+
+// tag::title[]
+== Développeur Java Sénior - *Permanent*
+*Morgan Stanley, Montreal (QC)* - 2011/2020
+
+// end::title[]
+
+=== Taxes
+* Developing on Tax Portal, Integration of Swiss customers into the portal, Taxman 2 and Taxman 3 (Created Taxman 3 architecture) and 871m (using architecture based on Taxman 3)
+* Coordinating integration with customers documentation team
+
+
+During my last mandate in the Corporate and Post-Trade Technology team, I have:
+
+* Collaborated on the design and implementation of a new system for trade capture and cash flow aggregation for equity derivatives. 
+
+* Collaborated in the design and implementation of multiple modifications to existing systems to manage settlement transactions for equity, foreign exchange, interest rate and credit products. 
+
+* Designed, implemented and maintained a reporting tool that gathers statistical information on settlement processes. 
+
+* Designed the new version of the decision system to manage taxes for all the bank's products. 
+
+* Designed a new system for predicting clients' tax exposure based on stock market announcements for all products. 
+
+* Resolved several significant issues in the existing code base related to performance, maintainability and functional requirements.
+
+
+As a developer, team lead, architect then functional manager, I strongly contributed to the design and development of the institutional tax platform at Morgan Stanley. Starting from scratch, we built a tax system capable of processing up to 60 million transactions a day and issuing 40K tax reports per year with over 250 million detail lines.
+I have developed not only design, architecture, Java back-end and DB2 experience, but also strong business knowledge and presentation skills.
+I also have a strong experience in agile when we transitioned the teams to SCRUM.
+
+I have been in charge of the teams for the past three years and the local department for two years.
+
+* Enterprise application development, delivery manager & solution architect - US institutional tax withholding
+* Java
+* DB2
+* UML
+* MS Project
+
+* Enterprise application development, project manager & solution architect - US tax regulation 871m
+* Java
+* DB2
+* UML
+* MS Project
+
+
+* Maintenance of a high profile/high volume system in Java.
+* Use of leading edge Java technologies such as JMS, CXF, Hibernate and the Spring Framework
+* DB2 database and MQ*Series message system
+* Linux operating system
+* Cloud infrastructure
+* Unit tests implemented using JUnits and Mockito
+* Use of Eclipse, Jira, Twiki and Git- Maintenance of a high profile/high volume system in Java. - Use of leading edge Java technologies such as JMS, CXF, Hibernate and the Spring Framework - DB2 database and MQ*Series message system - Linux operating system - Cloud infrastructure - Unit tests implemented using JUnits and Mockito - Use of Eclipse, Jira, Twiki and Git
+Compétences : Hibernate · JUnit · Java Enterprise Edition · spring security · Spring Framework
+
+
+From July 2016 to March 2018:
+
+Worked on the design and implementation of a new tax processing system based on Spring Integration, MQ, and container like technologies.
+
+Technologies: Java, JMS, multithreading, DB2, Splunk, Perl, Spring Integration + Treadmill containers
+Testing: End to end testing with Spring test and DB Unit
+
+From September 2014 to July 2016:
+
+Designed and implemented the Financial Tax Transaction on equity and derivative products for France and Italy. Worked on the backend using MQ, DB2 and Spring. Also worked on the front-end using EXT-JS and web sockets to push data update notification to our users.
+
+Technologies: Java, JMS, MQ, DB2, Spring, ExtJS
+Testing: Junit, DBUnit, Mockito, Spring test.
+
+
+
+
+Environnement::
+* 
+
+// tag::title[]
+*Gemalto (Montréal, QC)* - 2007/2011
+
+// end::title[]
+
+=== Produit SIMMessenger
+Development of Gateway server for instant messaging on mobile using SIM card SMS
+Technology : Java, OSGi technology, Jaxb, xml, xslt
+* Java development/design/architecture in server applications 
+* Smartphone clients development
+* Mobile Financial Services applications
+* Instant Messenger application
+
+Participate in implementation of highly secure framework for mobile financial services (banking, e-wallet, etc.). 
+Work on the developement of the Server backend
+Work on the developement of Android, iOS and Blackberry (Version 7 and earlier) client applications.
+Developement done using Scrum
+
+Participated in design, implemention and support of Java application server providing instant messaging service through SMS network.
+
+Environnement::
+* Java
+* OSGI
+* Eclipse
+
+// tag::title[]
+== Architecte J2EE - *Consultant*
+*Lefebvre Software (France)* - 2006/2007
+
+// end::title[]
+
+=== Application de gestion et de comptabilité
+* Écriture de la documentation technique
+* Correction et développement de la WebApplication en Struts avec Eclipse
+* Écriture des tests unitaires avec Junit et Cactus
+* Intégration d’un framework propriétaire (NQI)
+
+Environnement::
+* J2EE
+* Eclipse
+* JBoss
+* Struts
+* NQI
+* Junit
+* Cactus
+
+// tag::title[]
+*Arcelor Mittal (France)* - 2005/2006
+
+// end::title[]
+
+=== Application d'aide à la qualification de la qualité de production
+* Écriture de la documentation technique
+* Développement de la WebApplication en Struts avec Eclipse
+* Écriture des tests unitaires avec Junit
+* Intégration du framework maison (FOX)
+
+Environnement::
+* J2EE
+* Eclipse
+* Tomcat
+* Struts
+* Junit
+* JRules
+
+=== Application de simulation de production d'acier
+* Écriture de la documentation technique
+* Développement de la WebApplication en Struts avec Eclipse
+* Écriture des tests unitaires avec Junit
+* Intégration du moteur de règles JRules
+
+Environnement::
+* J2EE
+* Eclipse
+* Tomcat
+* Struts
+* Junit
+* JRules
+
+// tag::title[]
+*ST Micro (France)* - 2006
+
+// end::title[]
+
+=== Application financière
+* Écriture du document d'architecture
+* Formation et supervision de l'équipe de développement
+* Mise en oeuvre d'un module d'authentification LDAP sur le serveur JBoss
+
+Environnement::
+* J2EE 1.4
+* Eclipse 3.1
+* JBoss 4.0
+* LDAP
+* Struts 1.2
+* Oracle 9
+
+// tag::title[]
+== Développeur J2EE - *Consultant*
+*DHL (France)* - 2005
+
+// end::title[]
+
+=== Applications Intranet
+* Écriture de la documentation technique et des plans de tests
+* Développement J2EE avec Eclipse, Hibernate, Struts
+* Contact direct avec les utilisateurs
+
+Environnement::
+* WebLogic
+* Jboss
+* J2EE
+* Hibernate
+* Eclipse
+
+// tag::title[]
+== Développeur Java - *Permanent*
+*Gemplus (France)* - 1999/2003
+
+// end::title[]
+
+=== Plate-forme d'envoi de SMS pour les clients GSM
+* Installation et configuration de RedHat 7.3 sur 17 serveurs xSeries d'IBM.
+* Configuration des serveurs SSH.
+* Gestion des clefs cryptographiques utilisés pour la gestion des accès sécurisés.
+
+Environnement::
+* Red Hat 7.3
+* SSH
+* IBM xSeries
+
+=== Migration de plate-forme applicatives
+* Migration de 14 serveurs SUN de la plate-forme Gem2B en une plate-forme J2EE (Apache, Websphere, Oracle) multi-applicative.
+* Mise en production d'applications stratégiques (Customer Item Book, Webstore) sur la plate-forme multi-applicative chez l'hébergeur Matra Global Netservices.
+
+Environnement::
+* Solaris
+* SSH
+* WebSphere 3.5
+
+=== Application de commerce électronique BtoB (Projet Gem2B)
+* Ré-ingénierie logicielle : réécriture des Servlets et des JSP, mise en place de Struts.
+* Ré-ingénierie de la plate-forme matérielle (14 serveurs)
+* Gestion des certificats x509 (PKI) pour l'authentification client.
+* Interlocuteur préférentiel de l'hébergeur Matra Global Netservices
+
+Environnement::
+* Java
+* Websphere 3.5
+* HTML
+* Struts
+* Apache
+* PKI
+* CVS
+
+=== Développement d'un serveur d'importation de donnée bancaire
+* Développement du serveur en Java
+* Gestion des flux de données XML
+* Mise en oeuvre et réalisation des tests de validation
+
+Environnement::
+* Java
+* XML
+* JAXB
+* JAXP
+* JUnit
+* PVCS
+
+=== Site de gestion de contenu pour le projet Européen Telenet
+* Développement du site en PHP
+* Mise en oeuvre de l'authentification par carte à puces (Apache/SSL)
+* Personnalisation des cartes GemSAFE (Certificat X509)
+
+Environnement::
+* PHP
+* PKI
+* Apache 1.3
+* Java
+
+=== Sécurisation de plate-forme HTTP à l'aide de carte à puce
+* Étude d'une sécurisation d'un site web par carte à puces,
+* Écriture du cahier des charges technique
+
+Environnement::
+* Apache 1.3
+* PKI
+* PKCS #11
+* Certificats x509
+
+=== Projet Européen FILIGRANE
+* Écriture de la documentation technique
+* Développement d'un tunnel RMI over HTTP en Java
+* Développement d'applets pour cartes à puce Java
+
+Environnement::
+* WebSphere
+* Java
+* RMI
+* Servlet
+* J2RE
+* JavaCard
+* Apache 1.3
+
+=== Projet Européen CITIES
+* Écriture de la documentation technique
+* Sécurisation du portail CITIES par cartes à puce
+* Présentation de la solution devant les responsables de la ville de Marseille
+
+Environnement::
+* SSL v3
+* PKI
+* Cartes à puce GemSAFE
+* PKCS #11
+* Certificats x509 
+
+// tag::title[]
+== Développeur C & Java - *Permanent*
+*Euritis (France)* - 1997/1999
+
+// end::title[]
+
+=== Projets Européens
+* Développement d'applets signées utilisant des cartes à puce
+* Développement d'un proxy OCF pour piloter les lecteurs de cartes
+
+Environnement::
+* Java
+* OCF
+* Carte à puce
+
+=== Mise oeuvre d'un environnement de développement pour JavaCard GSM
+* Étude et mise en oeuvre d'un environnement de développement pour applet-GSM
+* Développement d'un pilote d'application JavaCard
+
+Environnement::
+* Java
+* JavaCard
+* Cartes GemXpresso
+* PVCS
+* Visual Café
+
+=== Développement d'un serveur de base de donnée documentaire
+* Maintenance logicielle du serveur de base de données documentaire
+* Développement en Langage C sur serveur SUN et Windows NT
+
+Environnement::
+* C
+* SUN OS
+* Windows NT
+* Microsoft Visual C++
+* GCC

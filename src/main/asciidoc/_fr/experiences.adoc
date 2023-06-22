@@ -1,0 +1,400 @@
+// tag::compagny[]
+= Expériences
+
+== Architecte de Solution - *Consultant*
+*Banque Nationale, Montreal (QC)* - 2022/2023
+
+// end::compagny[]
+
+=== Assurances
+* Conception de l'API des avoirs d'assurance utilisée par le CRM (SAP) dans la page des avoirs des clients (en utilisant les spécifications Open API 3 et Async API 2)
+* Rédaction de documentation d'architecture sur Confluence à l'aide de Draw.io
+* Discussion coordonnée avec l'architecte de domaine et l'équipe CRM
+* Prototypage des micro services AWS EKS (Java, WebFlux et istio)
+* Accompagnement des développeurs
+
+Environnement::
+* 
+
+=== BNE
+* Conception de l'architecture pour l'intégration GCC, BNE Holding, Customer Cash Management, les notifications Mastercard et les produits TFC et l'intégration de l'application BackBase Employee avec Azure AD et IIQ
+* Rédaction de documentation d'architecture sur Confluence à l'aide de Draw.io
+* Présentation de l'architecture à tous les architectes BNC (réunion AAA)
+* Accompagnement des développeurs
+
+Environnement::
+* 
+
+// tag::compagny[]
+== Architecte Logiciels - *Consultant*
+*Banque Nationale, Montreal (QC)* - 2021
+
+// end::compagny[]
+
+=== BNE
+* Conception d'une architecture logicielle pour synchroniser l'ancien MS SQL Server avec MDM-AE en utilisant les micro-services AWS (EKS)
+* Gestion d'un repo GitHub pour centraliser les fichiers OpenAPI afin de forcer le développement du premier contrat (utilisé par les anciennes équipes BNE)
+
+Services numériques aux entreprisesServices numériques aux entreprises
+Compétences : Intégration de systèmes · ArchitectureCompétences
+
+
+
+
+Canaux numériques entreprises
+
+
+
+Aider les clients à atteindre leurs objectifs de développement logiciel grâce à la conception, l'architecture et le leadership technique dans le cloud.
+
+Propriétaire de ThoughtFlow Solutions Inc. Aider les clients à atteindre leurs objectifs de développement logiciel grâce à la conception, l'architecture et le leadership technique dans le cloud. Propriétaire de ThoughtFlow Solutions Inc.
+Compétences : Amazon S3 · Gestion des identités et des accès (IAM) · DevOps · Amazon Simple Notification Service (SNS) · Amazon Web Services (AWS)
+
+
+En mission à la Banque Nationale du Canada / Département "Canal Numérique Entreprise"
+
+Techlead et architecte Java / DevSeOps d'une squad d'~ 15 membres.
+
+Environnement SAFe (équipe applicative de plus de 100 collaborateurs).
+Java 11, Spring webflux / Reactor, Kubernetes, Docker, EKS, AWS, SQS, Kafka
+
+Environnement::
+* 
+
+// tag::compagny[]
+== Développeur Java Sénior - *Permanent*
+*Morgan Stanley, Montreal (QC)* - 2011/2020
+
+// end::compagny[]
+
+=== Taxes
+* Développement sur Tax Portal, Intégration des clients suisses dans le portail, Taxman 2 et Taxman 3 (Création de l'architecture Taxman 3) et 871m (utilisation de l'architecture basée sur Taxman 3)
+* Coordonner l'intégration avec l'équipe de documentation des clients
+
+
+Lors de mon dernier mandat au sein de l'équipe Corporate and Post-Trade Technology, j'ai :
+
+* Collaboration à la conception et à la mise en œuvre d'un nouveau système de capture de transactions et d'agrégation de flux de trésorerie pour les dérivés actions.
+
+* Collaboré à la conception et à la mise en œuvre de multiples modifications aux systèmes existants pour gérer les transactions de règlement des produits de capitaux propres, de change, de taux d'intérêt et de crédit.
+
+* Conception, mise en œuvre et maintenance d'un outil de reporting qui rassemble des informations statistiques sur les processus de règlement.
+
+* Conception de la nouvelle version du système de décision pour gérer les taxes pour tous les produits de la banque.
+
+* Conception d'un nouveau système de prévision de l'exposition fiscale des clients sur la base des annonces boursières pour tous les produits.
+
+* Résolution de plusieurs problèmes importants dans la base de code existante liés aux performances, à la maintenabilité et aux exigences fonctionnelles.
+
+
+En tant que développeur, chef d'équipe, architecte puis responsable fonctionnel, j'ai fortement contribué à la conception et au développement de la plateforme fiscale institutionnelle chez Morgan Stanley. En partant de zéro, nous avons construit un système fiscal capable de traiter jusqu'à 60 millions de transactions par jour et d'émettre 40 000 déclarations fiscales par an avec plus de 250 millions de lignes de détail.
+J'ai développé non seulement une expérience en conception, architecture, back-end Java et DB2, mais aussi de solides connaissances en affaires et des compétences en présentation.
+J'ai également une forte expérience en agile lors de la transition des équipes vers SCRUM.
+
+Je suis en charge des équipes depuis trois ans et du département local depuis deux ans.
+
+* Développement d'applications d'entreprise, gestionnaire de livraison et architecte de solutions – Retenue d'impôt institutionnel aux États-Unis
+*Java
+* DB2
+*UML
+* Projet MS
+
+* Développement d'applications d'entreprise, chef de projet et architecte de solutions - Réglementation fiscale américaine 871m
+*Java
+* DB2
+*UML
+* Projet MS
+
+
+* Maintenance d'un système haut profil/haut volume en Java.
+* Utilisation de technologies Java de pointe telles que JMS, CXF, Hibernate et Spring Framework
+* Base de données DB2 et système de messagerie MQ*Series
+* Système d'exploitation Linux
+* Infrastructure cloud
+* Tests unitaires implémentés à l'aide de JUnits et Mockito
+* Utilisation d'Eclipse, Jira, Twiki et Git- Maintenance d'un système haut profil/haut volume en Java. - Utilisation de technologies Java de pointe telles que JMS, CXF, Hibernate et Spring Framework - Base de données DB2 et système de messagerie MQ*Series - Système d'exploitation Linux - Infrastructure cloud - Tests unitaires mis en œuvre à l'aide de JUnits et Mockito - Utilisation d'Eclipse, Jira, Twiki et Git
+Compétences : Hibernate · JUnit · Java Enterprise Edition · spring security · Spring Framework
+
+
+De juillet 2016 à mars 2018 :
+
+A travaillé sur la conception et la mise en œuvre d'un nouveau système de traitement des taxes basé sur Spring Integration, MQ et les technologies de type conteneur.
+
+Technologies : Java, JMS, multithreading, DB2, Splunk, Perl, Spring Integration + Treadmill containers
+Tests : Tests de bout en bout avec Spring test et DB Unit
+
+De septembre 2014 à juillet 2016 :
+
+Conception et mise en œuvre de la transaction fiscale financière sur les actions et les produits dérivés pour la France et l'Italie. Travail sur le backend avec MQ, DB2 et Spring. A également travaillé sur le front-end à l'aide d'EXT-JS et de sockets Web pour transmettre la notification de mise à jour des données à nos utilisateurs.
+
+Technologies : Java, JMS, MQ, DB2, Spring, ExtJS
+Tests : Junit, DBUnit, Mockito, Spring test.
+
+
+Environnement::
+* 
+
+// tag::compagny[]
+*Gemalto (Montréal, QC)* - 2007/2011
+
+// end::compagny[]
+
+=== Produit SIMMessenger
+Développement d'une passerelle pour la messagerie instantanée sur mobile à l'aide de SMS
+
+* Architecture, conception et développement Java des applications serveur
+* Développement de clients Smartphones
+* Applications de services financiers mobiles
+* Application de messagerie instantanée
+
+Environnement::
+* Java
+* Framework OSGI
+* Eclipse
+* JAXB
+* XML
+* XSLT
+
+=== Services financiers mobile
+
+Participer à la mise en place d'un cadre hautement sécurisé pour les services financiers mobiles (banque, porte-monnaie électronique, etc.).
+Travail sur le développement du backend Serveur
+Travail sur le développement d'applications clientes Android, iOS et Blackberry (Version 7 et antérieures).
+Développement réalisé avec Scrum
+
+Participer à la conception, à la mise en œuvre et au support du serveur d'applications Java fournissant un service de messagerie instantanée via le réseau SMS.
+
+Environnement::
+* Java
+* Framework OSGI
+* Eclipse
+* JAXB
+* XML
+* XSLT
+
+// tag::compagny[]
+== Architecte J2EE - *Consultant*
+*Lefebvre Software (France)* - 2006/2007
+
+// end::compagny[]
+
+=== Application de gestion et de comptabilité
+* Écriture de la documentation technique
+* Correction et développement de la WebApplication en Struts avec Eclipse
+* Écriture des tests unitaires avec Junit et Cactus
+* Intégration d’un framework propriétaire (NQI)
+
+Environnement::
+* J2EE
+* Eclipse
+* JBoss
+* Struts
+* NQI
+* Junit
+* Cactus
+
+// tag::compagny[]
+*Arcelor Mittal (France)* - 2005/2006
+
+// end::compagny[]
+
+=== Application d'aide à la qualification de la qualité de production
+* Écriture de la documentation technique
+* Développement de la WebApplication en Struts avec Eclipse
+* Écriture des tests unitaires avec Junit
+* Intégration du framework maison (FOX)
+
+Environnement::
+* J2EE
+* Eclipse
+* Tomcat
+* Struts
+* Junit
+* JRules
+
+=== Application de simulation de production d'acier
+* Écriture de la documentation technique
+* Développement de la WebApplication en Struts avec Eclipse
+* Écriture des tests unitaires avec Junit
+* Intégration du moteur de règles JRules
+
+Environnement::
+* J2EE
+* Eclipse
+* Tomcat
+* Struts
+* Junit
+* JRules
+
+// tag::compagny[]
+*ST Micro (France)* - 2006
+
+// end::compagny[]
+
+=== Application financière
+* Écriture du document d'architecture
+* Formation et supervision de l'équipe de développement
+* Mise en oeuvre d'un module d'authentification LDAP sur le serveur JBoss
+
+Environnement::
+* J2EE 1.4
+* Eclipse 3.1
+* JBoss 4.0
+* LDAP
+* Struts 1.2
+* Oracle 9
+
+// tag::compagny[]
+== Développeur J2EE - *Consultant*
+*DHL (France)* - 2005
+
+// end::compagny[]
+
+=== Applications Intranet
+* Écriture de la documentation technique et des plans de tests
+* Développement J2EE avec Eclipse, Hibernate, Struts
+* Contact direct avec les utilisateurs
+
+Environnement::
+* WebLogic
+* Jboss
+* J2EE
+* Hibernate
+* Eclipse
+
+// tag::compagny[]
+== Développeur Java - *Permanent*
+*Gemplus (France)* - 1999/2003
+
+// end::compagny[]
+
+=== Plate-forme d'envoi de SMS pour les clients GSM
+* Installation et configuration de RedHat 7.3 sur 17 serveurs xSeries d'IBM.
+* Configuration des serveurs SSH.
+* Gestion des clefs cryptographiques utilisés pour la gestion des accès sécurisés.
+
+Environnement::
+* Red Hat 7.3
+* SSH
+* IBM xSeries
+
+=== Migration de plate-forme applicatives
+* Migration de 14 serveurs SUN de la plate-forme Gem2B en une plate-forme J2EE (Apache, Websphere, Oracle) multi-applicative.
+* Mise en production d'applications stratégiques (Customer Item Book, Webstore) sur la plate-forme multi-applicative chez l'hébergeur Matra Global Netservices.
+
+Environnement::
+* Solaris
+* SSH
+* WebSphere 3.5
+
+=== Application de commerce électronique BtoB (Projet Gem2B)
+* Ré-ingénierie logicielle : réécriture des Servlets et des JSP, mise en place de Struts.
+* Ré-ingénierie de la plate-forme matérielle (14 serveurs)
+* Gestion des certificats x509 (PKI) pour l'authentification client.
+* Interlocuteur préférentiel de l'hébergeur Matra Global Netservices
+
+Environnement::
+* Java
+* Websphere 3.5
+* HTML
+* Struts
+* Apache
+* PKI
+* CVS
+
+=== Développement d'un serveur d'importation de donnée bancaire
+* Développement du serveur en Java
+* Gestion des flux de données XML
+* Mise en oeuvre et réalisation des tests de validation
+
+Environnement::
+* Java
+* XML
+* JAXB
+* JAXP
+* JUnit
+* PVCS
+
+=== Site de gestion de contenu pour le projet Européen Telenet
+* Développement du site en PHP
+* Mise en oeuvre de l'authentification par carte à puces (Apache/SSL)
+* Personnalisation des cartes GemSAFE (Certificat X509)
+
+Environnement::
+* PHP
+* PKI
+* Apache 1.3
+* Java
+
+=== Sécurisation de plate-forme HTTP à l'aide de carte à puce
+* Étude d'une sécurisation d'un site web par carte à puces,
+* Écriture du cahier des charges technique
+
+Environnement::
+* Apache 1.3
+* PKI
+* PKCS #11
+* Certificats x509
+
+=== Projet Européen FILIGRANE
+* Écriture de la documentation technique
+* Développement d'un tunnel RMI over HTTP en Java
+* Développement d'applets pour cartes à puce Java
+
+Environnement::
+* WebSphere
+* Java
+* RMI
+* Servlet
+* J2RE
+* JavaCard
+* Apache 1.3
+
+=== Projet Européen CITIES
+* Écriture de la documentation technique
+* Sécurisation du portail CITIES par cartes à puce
+* Présentation de la solution devant les responsables de la ville de Marseille
+
+Environnement::
+* SSL v3
+* PKI
+* Cartes à puce GemSAFE
+* PKCS #11
+* Certificats x509 
+
+// tag::compagny[]
+== Développeur C & Java - *Permanent*
+*Euritis (France)* - 1997/1999
+
+// end::compagny[]
+
+=== Projets Européens
+* Développement d'applets signées utilisant des cartes à puce
+* Développement d'un proxy OCF pour piloter les lecteurs de cartes
+
+Environnement::
+* Java
+* OCF
+* Carte à puce
+
+=== Mise oeuvre d'un environnement de développement pour JavaCard GSM
+* Étude et mise en oeuvre d'un environnement de développement pour applet-GSM
+* Développement d'un pilote d'application JavaCard
+
+Environnement::
+* Java
+* JavaCard
+* Cartes GemXpresso
+* PVCS
+* Visual Café
+
+=== Développement d'un serveur de base de donnée documentaire
+* Maintenance logicielle du serveur de base de données documentaire
+* Développement en Langage C sur serveur SUN et Windows NT
+
+Environnement::
+* C
+* SUN OS
+* Windows NT
+* Microsoft Visual C++
+* GCC

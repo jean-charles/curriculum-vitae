@@ -1,22 +1,30 @@
 = Solution Architect
 
-[informations]
+[.informations]
 == !
-include::./en/_profile.adoc[]
+:leveloffset: +2
 
-include::./en/_contact.adoc[]
+include::./_en/profile.adoc[]
 
-include::./en/_languages.adoc[]
+include::./_en/contact.adoc[]
 
-include::./en/_expertises.adoc[]
+include::./_en/languages.adoc[]
 
-include::./en/_/achievements.adoc[]
+include::./_en/expertises.adoc[]
 
-include::./en/_references.adoc[]
+include::./_en/achievements.adoc[]
 
-[experiences]
+include::./_en/references.adoc[]
+
+:leveloffset: -2
+
+[.experiences]
 == !
 
-include::./en/__experiences.adoc[]
+:leveloffset: +2
 
-include::./en/_education.adoc[]
+include::./_en/experiences.adoc[]
+
+include::./_en/education.adoc[]
+
+:leveloffset: -2

@@ -1,14 +1,11 @@
-= Hello, AsciiDoc!
+= Solution Architect
+Jean-Charles Giardina
+v{revnumber}, {docdate}
 
-This is an interactive editor.
-Use it to try https://asciidoc.org[AsciiDoc].
+:leveloffset: +1
 
-== Section Title
+include::./_en/contact.adoc[]
 
-* A list item
-* Another list item
+include::./_en/experiences.adoc[tag=title]
 
-[,ruby]
-----
-puts 'Hello, World!'
-----
+:leveloffset: -1

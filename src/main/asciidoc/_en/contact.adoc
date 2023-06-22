@@ -1,4 +1,4 @@
-== Contact
+= Contact
 
 * jean-charles.giardina@gayasystem.com
 * +1 514-909-5072
