@@ -1,0 +1,51 @@
+# https://github.com/asciidoctor/asciidoctor-pdf/blob/v1.6.x/docs/theming-guide.adoc
+extends:
+  - default-with-fallback-font
+page:
+  layout: portrait
+  margin: [0.5in, 0.5in, 0.5in, 0.5in]
+  size: Letter
+# sidebar:
+#   background-color: #ee0000
+#   font-style: bold
+# base:
+#   font-color: #333333
+#   font-family: Times-Roman
+#   font-size: 12
+#   line-height-length: 17
+#   line-height: $base-line-height-length / $base-font-size
+# vertical-spacing: $base-line-height-length
+# image:
+#   align: center
+# caption:
+#   align: center
+#   font-color: #FF0000
+#   font-size: 10
+# heading:
+#   font-color: #262626
+#   font-size: 17
+#   font-style: bold
+#   line-height: 1.2
+#   margin-bottom: $vertical-spacing
+# link:
+#   font-color: #002FA7
+# outline-list:
+#   indent: $base-font-size * 1.5
+# header:
+#   height: 0.75in
+#   line-height: 1
+#   recto:
+#     right:
+#       content: '{document-title}'
+#   verso:
+#     left:
+#       content: '{document-title}'
+# footer:
+#   height: $base-line-height-length * 2.5
+#   line-height: 1
+#   recto:
+#     right:
+#       content: '{page-number}'
+#   verso:
+#     left:
+#       content: $footer-recto-right-content

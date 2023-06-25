@@ -1,8 +1,6 @@
 = Architecte de Solution
 
-[.informations]
-== !
-:leveloffset: +2
+:leveloffset: +1
 
 include::./_fr/profile.adoc[]
 
@@ -10,21 +8,14 @@ include::./_fr/contact.adoc[]
 
 include::./_fr/languages.adoc[]
 
+include::./_fr/experiences.adoc[]
+
 include::./_fr/expertises.adoc[]
 
 include::./_fr/achievements.adoc[]
 
-include::./_fr/references.adoc[]
-
-:leveloffset: -2
-
-[.experiences]
-== !
-
-:leveloffset: +2
-
-include::./_fr/experiences.adoc[]
-
 include::./_fr/education.adoc[]
 
-:leveloffset: -2
+include::./_fr/references.adoc[]
+
+:leveloffset: -1

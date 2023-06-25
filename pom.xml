@@ -46,6 +46,7 @@
                 </dependencies>
                 <configuration>
                     <sourceDirectory>src/main/asciidoc</sourceDirectory>
+                    <stylesheet>_template/curriculum-vitae.css</stylesheet>
                     <!-- Attributes common to all output formats -->
                     <attributes>
                         <sourcedir>${project.build.sourceDirectory}</sourcedir>
@@ -60,8 +61,12 @@
                         </goals>
                         <configuration>
                             <backend>pdf</backend>
+                            <!-- <doctype>book</doctype> -->
                             <attributes>
-                                <source-highlighter>rouge</source-highlighter>
+                                <pdf-theme>custom</pdf-theme>
+                                <pdf-themesdir>${project.basedir}/src/main/theme</pdf-themesdir>
+                                <pdf-style>custom</pdf-style>
+                                <!-- <source-highlighter>rouge</source-highlighter> -->
                                 <icons>font</icons>
                                 <pagenums/>
                                 <!-- <toc/> -->
