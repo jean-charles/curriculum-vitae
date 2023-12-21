@@ -1,0 +1,18 @@
+// tag::company[]
+*ST Micro (France)* - 2006
+
+// end::company[]
+[horizontal]
+*Application financière*::
+* Écriture du document d'architecture
+* Formation et supervision de l'équipe de développement
+* Mise en oeuvre d'un module d'authentification LDAP sur le serveur JBoss
+
+[horizontal]
+Environnement::
+* J2EE 1.4
+* Eclipse 3.1
+* JBoss 4.0
+* LDAP
+* Struts 1.2
+* Oracle 9

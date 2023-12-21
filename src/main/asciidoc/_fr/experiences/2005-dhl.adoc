@@ -1,0 +1,20 @@
+// tag::position[]
+== Développeur J2EE - *Consultant*
+// end::position[]
+
+// tag::company[]
+*DHL (France)* - 2005
+
+// end::company[]
+*Applications Intranet*
+* Écriture de la documentation technique et des plans de tests
+* Développement J2EE avec Eclipse, Hibernate, Struts
+* Contact direct avec les utilisateurs
+
+[horizontal]
+Environnement::
+* WebLogic
+* Jboss
+* J2EE
+* Hibernate
+* Eclipse

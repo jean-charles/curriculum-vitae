@@ -1,0 +1,41 @@
+// tag::position[]
+== Développeur C & Java - *Permanent*
+// end::position[]
+
+// tag::company[]
+*Euritis (France)* - 1997/1999
+
+// end::company[]
+*Projets Européens*
+* Développement d'applets signées utilisant des cartes à puce
+* Développement d'un proxy OCF pour piloter les lecteurs de cartes
+
+[horizontal]
+Environnement::
+* Java
+* OCF
+* Carte à puce
+
+*Mise oeuvre d'un environnement de développement pour JavaCard GSM*
+* Étude et mise en oeuvre d'un environnement de développement pour applet-GSM
+* Développement d'un pilote d'application JavaCard
+
+[horizontal]
+Environnement::
+* Java
+* JavaCard
+* Cartes GemXpresso
+* PVCS
+* Visual Café
+
+*Développement d'un serveur de base de donnée documentaire*
+* Maintenance logicielle du serveur de base de données documentaire
+* Développement en Langage C sur serveur SUN et Windows NT
+
+[horizontal]
+Environnement::
+* C
+* SUN OS
+* Windows NT
+* Microsoft Visual C++
+* GCC

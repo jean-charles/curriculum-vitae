@@ -1,0 +1,36 @@
+// tag::company[]
+*Arcelor Mittal (France)* - 2005/2006
+
+// end::company[]
+// tag::project[]
+==== Application d'aide à la qualification de la qualité de production
+
+// end::project[]
+* Écriture de la documentation technique
+* Développement de la WebApplication en Struts avec Eclipse
+* Écriture des tests unitaires avec Junit
+* Intégration du framework maison (FOX)
+
+[horizontal]
+Environnement::
+* J2EE
+* Eclipse
+* Tomcat
+* Struts
+* Junit
+* JRules
+
+*Application de simulation de production d'acier*::
+* Écriture de la documentation technique
+* Développement de la WebApplication en Struts avec Eclipse
+* Écriture des tests unitaires avec Junit
+* Intégration du moteur de règles JRules
+
+[horizontal]
+Environnement::
+* J2EE
+* Eclipse
+* Tomcat
+* Struts
+* Junit
+* JRules

@@ -1,0 +1,110 @@
+// tag::position[]
+== Développeur Java Sénior - *Permanent*
+// end::position[]
+
+// tag::company[]
+=== Morgan Stanley, Montreal (QC) - 2011/2020
+
+// end::company[]
+[horizontal]
+// tag::project[]
+==== 
+
+
+// end::project[]
+* 
+
+// tag::project[]
+==== 871m
+
+
+// end::project[]
+* 
+
+// tag::project[]
+==== Taxman 3
+
+Création de l'architecture Taxman 3 utilisant Spring Integration afin de décupler les performances brutes.
+
+
+// end::project[]
+* 
+
+// tag::project[]
+==== Taxman 2
+Développement de nouvelles fonctionnalités dans l'application de calcul des taxes Taxman 2.
+
+// end::project[]
+* 
+
+// tag::project[]
+==== Customer Tax Portal
+
+Dévelopement et conception d'un portail web en Flex.
+Architecture logicielle et migration du portail vers ExtJS de Sencha.
+
+// end::project[]
+* Développement Flex et Javascript du portail
+* Intégration des clients suisses dans le portail
+
+, Taxman 2 et Taxman 3 (Création de l'architecture Taxman 3) et 871m (utilisation de l'architecture basée sur Taxman 3)
+* Coordonner l'intégration avec l'équipe de documentation des clients
++
+Lors de mon dernier mandat au sein de l'équipe Corporate and Post-Trade Technology, j'ai :
++
+* Collaboration à la conception et à la mise en œuvre d'un nouveau système de capture de transactions et d'agrégation de flux de trésorerie pour les dérivés actions.
++
+* Collaboré à la conception et à la mise en œuvre de multiples modifications aux systèmes existants pour gérer les transactions de règlement des produits de capitaux propres, de change, de taux d'intérêt et de crédit.
++
+* Conception, mise en œuvre et maintenance d'un outil de reporting qui rassemble des informations statistiques sur les processus de règlement.
++
+* Conception de la nouvelle version du système de décision pour gérer les taxes pour tous les produits de la banque.
++
+* Conception d'un nouveau système de prévision de l'exposition fiscale des clients sur la base des annonces boursières pour tous les produits.
++
+* Résolution de plusieurs problèmes importants dans la base de code existante liés aux performances, à la maintenabilité et aux exigences fonctionnelles.
++
+En tant que développeur, chef d'équipe, architecte puis responsable fonctionnel, j'ai fortement contribué à la conception et au développement de la plateforme fiscale institutionnelle chez Morgan Stanley. En partant de zéro, nous avons construit un système fiscal capable de traiter jusqu'à 60 millions de transactions par jour et d'émettre 40 000 déclarations fiscales par an avec plus de 250 millions de lignes de détail.
+J'ai développé non seulement une expérience en conception, architecture, back-end Java et DB2, mais aussi de solides connaissances en affaires et des compétences en présentation.
+J'ai également une forte expérience en agile lors de la transition des équipes vers SCRUM.
++
+Je suis en charge des équipes depuis trois ans et du département local depuis deux ans.
++
+* Développement d'applications d'entreprise, gestionnaire de livraison et architecte de solutions – Retenue d'impôt institutionnel aux États-Unis
+*Java
+* DB2
+*UML
+* Projet MS
+
+* Développement d'applications d'entreprise, chef de projet et architecte de solutions - Réglementation fiscale américaine 871m
+*Java
+* DB2
+*UML
+* Projet MS
+
+* Maintenance d'un système haut profil/haut volume en Java.
+* Utilisation de technologies Java de pointe telles que JMS, CXF, Hibernate et Spring Framework
+* Base de données DB2 et système de messagerie MQ*Series
+* Système d'exploitation Linux
+* Infrastructure cloud
+* Tests unitaires implémentés à l'aide de JUnits et Mockito
+* Utilisation d'Eclipse, Jira, Twiki et Git- Maintenance d'un système haut profil/haut volume en Java. - Utilisation de technologies Java de pointe telles que JMS, CXF, Hibernate et Spring Framework - Base de données DB2 et système de messagerie MQ*Series - Système d'exploitation Linux - Infrastructure cloud - Tests unitaires mis en œuvre à l'aide de JUnits et Mockito - Utilisation d'Eclipse, Jira, Twiki et Git
+Compétences : Hibernate · JUnit · Java Enterprise Edition · spring security · Spring Framework
++
+De juillet 2016 à mars 2018 :
++
+A travaillé sur la conception et la mise en œuvre d'un nouveau système de traitement des taxes basé sur Spring Integration, MQ et les technologies de type conteneur.
++
+Technologies : Java, JMS, multithreading, DB2, Splunk, Perl, Spring Integration + Treadmill containers
+Tests : Tests de bout en bout avec Spring test et DB Unit
++
+De septembre 2014 à juillet 2016 :
++
+Conception et mise en œuvre de la transaction fiscale financière sur les actions et les produits dérivés pour la France et l'Italie. Travail sur le backend avec MQ, DB2 et Spring. A également travaillé sur le front-end à l'aide d'EXT-JS et de sockets Web pour transmettre la notification de mise à jour des données à nos utilisateurs.
++
+Technologies : Java, JMS, MQ, DB2, Spring, ExtJS
+Tests : Junit, DBUnit, Mockito, Spring test.
+
+[horizontal]
+Environnement::
+* Lorem

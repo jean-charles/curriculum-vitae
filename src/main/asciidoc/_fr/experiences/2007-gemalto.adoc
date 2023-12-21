@@ -1,0 +1,42 @@
+
+// tag::company[]
+*Gemalto (Montréal, QC)* - 2007/2011
+
+// end::company[]
+// tag::project[]
+==== Produit SIMMessenger
+
+// end::project[]
+Développement d'une passerelle pour la messagerie instantanée sur mobile à l'aide de SMS
+
+* Architecture, conception et développement Java des applications serveur
+* Développement de clients Smartphones
+* Applications de services financiers mobiles
+* Application de messagerie instantanée
+
+[horizontal]
+Environnement::
+* Java
+* Framework OSGI
+* Eclipse
+* JAXB
+* XML
+* XSLT
+
+// tag::project[]
+==== Services financiers mobile
+
+// end::project[]
+Participer à la mise en place d'un cadre hautement sécurisé pour les services financiers mobiles (banque, porte-monnaie électronique, etc.).
+Travail sur le développement du backend Serveur
+Travail sur le développement d'applications clientes Android, iOS et Blackberry (Version 7 et antérieures).
+Développement réalisé en Agile Scrum
+
+[horizontal]
+Environnement::
+* Java
+* Framework OSGI
+* Eclipse
+* JAXB
+* XML
+* XSLT

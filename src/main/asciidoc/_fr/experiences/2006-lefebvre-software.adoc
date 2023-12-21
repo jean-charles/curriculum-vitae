@@ -1,0 +1,26 @@
+// tag::position[]
+== Architecte J2EE - *Consultant*
+// end::position[]
+
+// tag::company[]
+*Lefebvre Software (France)* - 2006/2007
+
+// end::company[]
+// tag::project[]
+==== Application de gestion et de comptabilité
+
+// end::project[]
+* Écriture de la documentation technique
+* Correction et développement de la WebApplication en Struts avec Eclipse
+* Écriture des tests unitaires avec Junit et Cactus
+* Intégration d’un framework propriétaire (NQI)
+
+[horizontal]
+Environnement::
+* J2EE
+* Eclipse
+* JBoss
+* Struts
+* NQI
+* Junit
+* Cactus
