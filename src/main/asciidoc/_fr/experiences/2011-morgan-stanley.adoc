@@ -1,18 +1,26 @@
 // tag::position[]
-= Développeur Java Sénior - *Permanent*
-// end::position[]
+= Développeur Java Sénior - *Permanent* - 2011/2020
 
+// end::position[]
 // tag::company[]
-== Morgan Stanley, Montreal (QC) - 2011/2020
+== Morgan Stanley, Montréal
 
 // end::company[]
-[horizontal]
-// tag::project[]
-=== ...
+// tag::achivements[]
+* [Strong verb] + [job duty] + [impact]
+* Analyze IT infrastructure needs to determine project scope and resources
+* Designed and implemented new cloud architecture solutions for clients, reducing customer churn by 30%
+* Translate technical specifications for systems into product requirements and internal documents
+* Work with developers to streamline the development process and reduce production time
 
+// end::achivements[]
+// tag::environment[]
+Environnement::
+* Environments list
 
-// end::project[]
-* ...
+// end::environment[]
+
+# ----------------------------------------------------------------
 
 // tag::project[]
 === 871m

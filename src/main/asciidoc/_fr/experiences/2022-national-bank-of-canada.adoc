@@ -1,54 +1,32 @@
 // tag::position[]
-= Architecte de solution - *Consultant*
+= Architecte de solution - *Consultant* - Août 2022/Mars 2023
 
 // end::position[]
 // tag::company[]
-= Banque Nationale, Montreal (QC) - 2022/2023
+== Banque Nationale, Montréal
+
+Services numériques aux entreprises. Conception de l'architecture pour l'intégration GCC, BNE Holding, Customer Cash Management, les notifications Mastercard et les produits TFC et l'intégration de l'application BackBase Employee avec Azure AD et IIQ.
 
 // end::company[]
-// tag::project[]
-== Assurances
+// tag::achivements[]
+* [Strong verb] + [job duty] + [impact]
+* Analyze IT infrastructure needs to determine project scope and resources
+* Designed and implemented new cloud architecture solutions for clients, reducing customer churn by 30%
+* Translate technical specifications for systems into product requirements and internal documents
+* Work with developers to streamline the development process and reduce production time
 
-Conception de l'API du domaine assurance qui sera utilisée par le CRM (SAP) dans la page des avoirs des clients.
-
-// end::project[]
-* Discussion coordonnée avec l'architecte de domaine et l'équipe CRM
-* Rédaction de documentation d'architecture sur Confluence à l'aide de Draw.io
-* Prototypage des micro services AWS EKS (Java, WebFlux et Istio)
-* Accompagnement de l'équipe de développement situé en Thaïlande
-
-[horizontal]
-Compétences::
-* Architecture
-* Communication
-Environnement::
-* Open API
-* AWS
-* EKS
-* Istio
-* Java 17
-* WebFlux
-
-// tag::project[]
-== Services numériques aux entreprises (BNE)
-
-Conception de l'architecture pour l'intégration GCC, BNE Holding, Customer Cash Management, les notifications Mastercard et les produits TFC et l'intégration de l'application BackBase Employee avec Azure AD et IIQ.
-
-// end::project[]
 * Discussion coordonnée avec l'architecte de domaine et l'équipe CRM
 * Rédaction de documentation d'architecture sur Confluence à l'aide de Draw.io
 * Présentation de l'architecture à tous les architectes BNC (réunion AAA)
 * Accompagnement des développeurs
 
-[horizontal]
-Compétences::
-* Architecture
-* Intégration de systèmes
+// end::achivements[]
+// tag::environment[]
 Environnement::
 * Open API
 * AWS
 * EKS
 * Istio
 * Backbase
-* Java 11
-* WebFlux
+
+// end::environment[]

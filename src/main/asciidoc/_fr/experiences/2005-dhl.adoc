@@ -1,20 +1,31 @@
 // tag::position[]
-= Développeur J2EE - *Consultant*
-// end::position[]
+= Développeur J2EE - *Consultant* - 2005
 
+// end::position[]
 // tag::company[]
-= *DHL (France)* - 2005
+== DHL, Marseille, France
+
+Applications Intranet
 
 // end::company[]
-*Applications Intranet*
+// tag::achivements[]
+* [Strong verb] + [job duty] + [impact]
+* Analyze IT infrastructure needs to determine project scope and resources
+* Designed and implemented new cloud architecture solutions for clients, reducing customer churn by 30%
+* Translate technical specifications for systems into product requirements and internal documents
+* Work with developers to streamline the development process and reduce production time
+
 * Écriture de la documentation technique et des plans de tests
 * Développement J2EE avec Eclipse, Hibernate, Struts
 * Contact direct avec les utilisateurs
 
-[horizontal]
+// end::achivements[]
+// tag::environment[]
 Environnement::
 * WebLogic
 * Jboss
 * J2EE
 * Hibernate
 * Eclipse
+
+// end::environment[]

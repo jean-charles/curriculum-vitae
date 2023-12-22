@@ -1,6 +1,0 @@
-= Expertises
-
-Jira, Confluence, Visio, Draw.io, LucidChart
-AWS, Spring, JPA, Git, Angular, SQL
-IntelliJ, Eclipse, Visual Studio
-Unix

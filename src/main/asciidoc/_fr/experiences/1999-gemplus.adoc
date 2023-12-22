@@ -1,11 +1,27 @@
 // tag::position[]
-= Développeur Java - *Permanent*
-// end::position[]
+= Développeur Java - *Permanent* - 1999/2003
 
+// end::position[]
 // tag::company[]
-= *Gemplus (France)* - 1999/2003
+== Gemplus, Gemenos, France
 
 // end::company[]
+// tag::achivements[]
+* [Strong verb] + [job duty] + [impact]
+* Analyze IT infrastructure needs to determine project scope and resources
+* Designed and implemented new cloud architecture solutions for clients, reducing customer churn by 30%
+* Translate technical specifications for systems into product requirements and internal documents
+* Work with developers to streamline the development process and reduce production time
+
+// end::achivements[]
+// tag::environment[]
+Environnement::
+* Environments list
+
+// end::environment[]
+
+# ----------------------------------------------------------------
+
 *Plate-forme d'envoi de SMS pour les clients GSM*
 * Installation et configuration de RedHat 7.3 sur 17 serveurs xSeries d'IBM.
 * Configuration des serveurs SSH.

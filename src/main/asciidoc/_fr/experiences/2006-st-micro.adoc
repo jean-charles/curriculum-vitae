@@ -1,14 +1,26 @@
+// tag::position[]
+= Architecte J2EE - *Consultant* - 2006
+
+// end::position[]
 // tag::company[]
-= *ST Micro (France)* - 2006
+== ST Micro, Rousset, France
+
+Application financière
 
 // end::company[]
-[horizontal]
-*Application financière*::
+// tag::achivements[]
+* [Strong verb] + [job duty] + [impact]
+* Analyze IT infrastructure needs to determine project scope and resources
+* Designed and implemented new cloud architecture solutions for clients, reducing customer churn by 30%
+* Translate technical specifications for systems into product requirements and internal documents
+* Work with developers to streamline the development process and reduce production time
+
 * Écriture du document d'architecture
 * Formation et supervision de l'équipe de développement
 * Mise en oeuvre d'un module d'authentification LDAP sur le serveur JBoss
 
-[horizontal]
+// end::achivements[]
+// tag::environment[]
 Environnement::
 * J2EE 1.4
 * Eclipse 3.1
@@ -16,3 +28,5 @@ Environnement::
 * LDAP
 * Struts 1.2
 * Oracle 9
+
+// end::environment[]

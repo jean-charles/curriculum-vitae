@@ -1,5 +1,5 @@
 = Langues
 
-* Français: native
+* Français: langue maternelle
 * Anglais: fluide
 * Espagnol: intermediare

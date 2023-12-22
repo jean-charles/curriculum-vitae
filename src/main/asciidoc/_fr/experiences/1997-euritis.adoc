@@ -1,11 +1,27 @@
 // tag::position[]
-= Développeur C & Java - *Permanent*
-// end::position[]
+= Développeur C & Java - *Permanent* - 1997/1999
 
+// end::position[]
 // tag::company[]
-= *Euritis (France)* - 1997/1999
+== Euritis, Marseille, France
 
 // end::company[]
+// tag::achivements[]
+* [Strong verb] + [job duty] + [impact]
+* Analyze IT infrastructure needs to determine project scope and resources
+* Designed and implemented new cloud architecture solutions for clients, reducing customer churn by 30%
+* Translate technical specifications for systems into product requirements and internal documents
+* Work with developers to streamline the development process and reduce production time
+
+// end::achivements[]
+// tag::environment[]
+Environnement::
+* Environments list
+
+// end::environment[]
+
+# ----------------------------------------------------------------
+
 *Projets Européens*
 * Développement d'applets signées utilisant des cartes à puce
 * Développement d'un proxy OCF pour piloter les lecteurs de cartes

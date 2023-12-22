@@ -1,38 +1,24 @@
+# https://resumeworded.com/solutions-architect-resume-examples
+# https://www.indeed.com/career-advice/resumes-cover-letters/solution-architect-resume
+
 // tag::position[]
-= Architecte Logiciels - *Consultant*
+= Poste - *Consultant* - MMM yyyy/MMM yyyy
 
 // end::position[]
 // tag::company[]
-= Company name, City - YYYY-MM/YYYY-MM
+== Company name, City
 
 // end::company[]
-// tag::project[]
-== Project 1 name
+// tag::achivements[]
+* [Strong verb] + [job duty] + [impact]
+* Analyze IT infrastructure needs to determine project scope and resources
+* Designed and implemented new cloud architecture solutions for clients, reducing customer churn by 30%
+* Translate technical specifications for systems into product requirements and internal documents
+* Work with developers to streamline the development process and reduce production time
 
-Project description (Multi-line).
-
-// end::project[]
-* Achivements list
-
-[horizontal]
-Compétences::
-* Skill list
-
+// end::achivements[]
+// tag::environment[]
 Environnement::
 * Environments list
 
-// tag::project[]
-
-== Project 2 name
-
-Project description (Multi-line).
-
-// end::project[]
-* Achivements list
-
-[horizontal]
-Compétences::
-* Skill list
-
-Environnement::
-* Environments list
+// end::environment[]

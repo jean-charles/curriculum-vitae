@@ -1,11 +1,11 @@
 // tag::position[]
-= Architecte J2EE - *Consultant* - 2006/2007
+= Architecte de solution - *Consultant* - Mars 2023/Juin 2023
 
 // end::position[]
 // tag::company[]
-== Lefebvre Software, Marseille, France
+== Banque Nationale Assurances, Montréal
 
-Application de gestion et de comptabilité
+Conception de l'API du domaine assurance qui sera utilisée par le CRM (SAP) dans la page des avoirs des clients.
 
 // end::company[]
 // tag::achivements[]
@@ -15,20 +15,17 @@ Application de gestion et de comptabilité
 * Translate technical specifications for systems into product requirements and internal documents
 * Work with developers to streamline the development process and reduce production time
 
-* Écriture de la documentation technique
-* Correction et développement de la WebApplication en Struts avec Eclipse
-* Écriture des tests unitaires avec Junit et Cactus
-* Intégration d’un framework propriétaire (NQI)
+* Discussion coordonnée avec l'architecte de domaine et l'équipe CRM
+* Rédaction de documentation d'architecture sur Confluence à l'aide de Draw.io
+* Prototypage des micro services AWS EKS (Java, WebFlux et Istio)
+* Accompagnement de l'équipe de développement situé en Thaïlande
 
 // end::achivements[]
 // tag::environment[]
 Environnement::
-* J2EE
-* Eclipse
-* JBoss
-* Struts
-* NQI
-* Junit
-* Cactus
+* Open API
+* AWS
+* EKS
+* Istio
 
 // end::environment[]

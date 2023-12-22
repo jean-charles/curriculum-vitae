@@ -1,20 +1,23 @@
+// tag::position[]
+= Architecte de solution - *Consultant* - Juillet 2023
+
+// end::position[]
 // tag::company[]
-= Company name, City - 2023-07/Actuel
+== Bell Canada, Montréal
 
 // end::company[]
-// tag::project[]
-== Project 1 name
+// tag::achivements[]
+* [Strong verb] + [job duty] + [impact]
+* Analyze IT infrastructure needs to determine project scope and resources
+* Designed and implemented new cloud architecture solutions for clients, reducing customer churn by 30%
+* Translate technical specifications for systems into product requirements and internal documents
+* Work with developers to streamline the development process and reduce production time
 
-Project description (Multi-line).
-
-// end::project[]
-* Achivements list
-
-[horizontal]
-Compétences::
-* Skill list
-
+// end::achivements[]
+// tag::environment[]
 Environnement::
-* Environments list
+* OpenShift
+* DotNet micro-services
+* MS SQL Server
 
-// tag::project[]
+// end::environment[]
