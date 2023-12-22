@@ -1,3 +1,4 @@
+// tag::resume[]
 // tag::position[]
 = Développeur C & Java - *Permanent* - 1997/1999
 
@@ -6,6 +7,7 @@
 == Euritis, Marseille, France
 
 // end::company[]
+// end::resume[]
 // tag::achivements[]
 * [Strong verb] + [job duty] + [impact]
 * Analyze IT infrastructure needs to determine project scope and resources

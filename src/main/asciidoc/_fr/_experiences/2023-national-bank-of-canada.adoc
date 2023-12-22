@@ -1,15 +1,15 @@
+// tag::resume[]
 // tag::position[]
-= Architecte J2EE - *Consultant* - 2005/2006
+= Architecte de solution - *Consultant* - Mars 2023/Juin 2023
 
 // end::position[]
 // tag::company[]
-== Arcelor Mittal, City
+== Banque Nationale Assurances, Montréal
 
-Application d'aide à la qualification de la qualité de production. 
-Application de simulation de production d'acier
-
+Conception de l'API du domaine assurance qui sera utilisée par le CRM (SAP) dans la page des avoirs des clients.
 
 // end::company[]
+// end::resume[]
 // tag::achivements[]
 * [Strong verb] + [job duty] + [impact]
 * Analyze IT infrastructure needs to determine project scope and resources
@@ -17,20 +17,17 @@ Application de simulation de production d'acier
 * Translate technical specifications for systems into product requirements and internal documents
 * Work with developers to streamline the development process and reduce production time
 
-* Écriture de la documentation technique
-* Développement de la WebApplication en Struts avec Eclipse
-* Écriture des tests unitaires avec Junit
-* Intégration du framework maison (FOX)
-* Intégration du moteur de règles JRules
+* Discussion coordonnée avec l'architecte de domaine et l'équipe CRM
+* Rédaction de documentation d'architecture sur Confluence à l'aide de Draw.io
+* Prototypage des micro services AWS EKS (Java, WebFlux et Istio)
+* Accompagnement de l'équipe de développement situé en Thaïlande
 
 // end::achivements[]
 // tag::environment[]
 Environnement::
-* J2EE
-* Eclipse
-* Tomcat
-* Struts
-* Junit
-* JRules
+* Open API
+* AWS
+* EKS
+* Istio
 
 // end::environment[]

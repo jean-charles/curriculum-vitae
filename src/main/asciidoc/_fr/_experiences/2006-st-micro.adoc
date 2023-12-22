@@ -1,13 +1,15 @@
+// tag::resume[]
 // tag::position[]
-= Architecte de solution - *Consultant* - Mars 2023/Juin 2023
+= Architecte J2EE - *Consultant* - 2006
 
 // end::position[]
 // tag::company[]
-== Banque Nationale Assurances, Montréal
+== ST Micro, Rousset, France
 
-Conception de l'API du domaine assurance qui sera utilisée par le CRM (SAP) dans la page des avoirs des clients.
+Application financière
 
 // end::company[]
+// end::resume[]
 // tag::achivements[]
 * [Strong verb] + [job duty] + [impact]
 * Analyze IT infrastructure needs to determine project scope and resources
@@ -15,17 +17,18 @@ Conception de l'API du domaine assurance qui sera utilisée par le CRM (SAP) dan
 * Translate technical specifications for systems into product requirements and internal documents
 * Work with developers to streamline the development process and reduce production time
 
-* Discussion coordonnée avec l'architecte de domaine et l'équipe CRM
-* Rédaction de documentation d'architecture sur Confluence à l'aide de Draw.io
-* Prototypage des micro services AWS EKS (Java, WebFlux et Istio)
-* Accompagnement de l'équipe de développement situé en Thaïlande
+* Écriture du document d'architecture
+* Formation et supervision de l'équipe de développement
+* Mise en oeuvre d'un module d'authentification LDAP sur le serveur JBoss
 
 // end::achivements[]
 // tag::environment[]
 Environnement::
-* Open API
-* AWS
-* EKS
-* Istio
+* J2EE 1.4
+* Eclipse 3.1
+* JBoss 4.0
+* LDAP
+* Struts 1.2
+* Oracle 9
 
 // end::environment[]

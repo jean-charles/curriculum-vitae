@@ -1,3 +1,4 @@
+// tag::resume[]
 // tag::position[]
 = Poste - *Consultant* - 2007/2011
 
@@ -10,6 +11,7 @@ Produit SIMMessenger. Développement d'une passerelle pour la messagerie instant
 Services financiers mobile.
 
 // end::company[]
+// end::resume[]
 // tag::achivements[]
 * [Strong verb] + [job duty] + [impact]
 * Analyze IT infrastructure needs to determine project scope and resources

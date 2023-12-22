@@ -1,13 +1,13 @@
+// tag::resume[]
 // tag::position[]
-= Architecte J2EE - *Consultant* - 2006
+= Architecte de solution - *Consultant* - Juillet 2023
 
 // end::position[]
 // tag::company[]
-== ST Micro, Rousset, France
-
-Application financière
+== Bell Canada, Montréal
 
 // end::company[]
+// end::resume[]
 // tag::achivements[]
 * [Strong verb] + [job duty] + [impact]
 * Analyze IT infrastructure needs to determine project scope and resources
@@ -15,18 +15,11 @@ Application financière
 * Translate technical specifications for systems into product requirements and internal documents
 * Work with developers to streamline the development process and reduce production time
 
-* Écriture du document d'architecture
-* Formation et supervision de l'équipe de développement
-* Mise en oeuvre d'un module d'authentification LDAP sur le serveur JBoss
-
 // end::achivements[]
 // tag::environment[]
 Environnement::
-* J2EE 1.4
-* Eclipse 3.1
-* JBoss 4.0
-* LDAP
-* Struts 1.2
-* Oracle 9
+* OpenShift
+* DotNet micro-services
+* MS SQL Server
 
 // end::environment[]

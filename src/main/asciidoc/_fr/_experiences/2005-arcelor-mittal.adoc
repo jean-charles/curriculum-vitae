@@ -1,14 +1,17 @@
-# https://resumeworded.com/solutions-architect-resume-examples
-# https://www.indeed.com/career-advice/resumes-cover-letters/solution-architect-resume
-
+// tag::resume[]
 // tag::position[]
-= Poste - *Consultant* - MMM yyyy/MMM yyyy
+= Architecte J2EE - *Consultant* - 2005/2006
 
 // end::position[]
 // tag::company[]
-== Company name, City
+== Arcelor Mittal, City
+
+Application d'aide à la qualification de la qualité de production. 
+Application de simulation de production d'acier
+
 
 // end::company[]
+// end::resume[]
 // tag::achivements[]
 * [Strong verb] + [job duty] + [impact]
 * Analyze IT infrastructure needs to determine project scope and resources
@@ -16,9 +19,20 @@
 * Translate technical specifications for systems into product requirements and internal documents
 * Work with developers to streamline the development process and reduce production time
 
+* Écriture de la documentation technique
+* Développement de la WebApplication en Struts avec Eclipse
+* Écriture des tests unitaires avec Junit
+* Intégration du framework maison (FOX)
+* Intégration du moteur de règles JRules
+
 // end::achivements[]
 // tag::environment[]
 Environnement::
-* Environments list
+* J2EE
+* Eclipse
+* Tomcat
+* Struts
+* Junit
+* JRules
 
 // end::environment[]

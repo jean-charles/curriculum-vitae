@@ -1,3 +1,4 @@
+// tag::resume[]
 // tag::position[]
 = Architecte Logiciels - *Consultant* - Août 2021/Juillet 2022
 
@@ -12,6 +13,7 @@ Conception d'une architecture logicielle pour synchroniser l'ancien MS SQL Serve
 Gestion d'un repo GitHub pour centraliser les fichiers OpenAPI afin de forcer le développement des contrats avant le code.
 
 // end::company[]
+// end::resume[]
 // tag::achivements[]
 * [Strong verb] + [job duty] + [impact]
 * Analyze IT infrastructure needs to determine project scope and resources

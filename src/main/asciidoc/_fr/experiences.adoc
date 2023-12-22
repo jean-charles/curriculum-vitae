@@ -4,28 +4,28 @@
 
 :leveloffset: +1
 
-include::./experiences/2023-bell.adoc[]
+include::./_experiences/2023-bell.adoc[]
 
-include::./experiences/2023-national-bank-of-canada.adoc[]
+include::./_experiences/2023-national-bank-of-canada.adoc[]
 
-include::./experiences/2022-national-bank-of-canada.adoc[]
+include::./_experiences/2022-national-bank-of-canada.adoc[]
 
-include::./experiences/2021-national-bank-of-canada.adoc[]
+include::./_experiences/2021-national-bank-of-canada.adoc[]
 
-include::./experiences/2011-morgan-stanley.adoc[]
+include::./_experiences/2011-morgan-stanley.adoc[]
 
-include::./experiences/2007-gemalto.adoc[tag=position;company]
+include::./_experiences/2007-gemalto.adoc[tag=resume]
 
-include::./experiences/2006-lefebvre-software.adoc[tag=position;company]
+include::./_experiences/2006-lefebvre-software.adoc[tag=position; company]
 
-include::./experiences/2006-st-micro.adoc[tag=position;company]
+include::./_experiences/2006-st-micro.adoc[tag=position; company]
 
-include::./experiences/2005-arcelor-mittal.adoc[tag=position;company]
+include::./_experiences/2005-arcelor-mittal.adoc[tag=position; company]
 
-include::./experiences/2005-dhl.adoc[tag=position;company]
+include::./_experiences/2005-dhl.adoc[tag=position; company]
 
-include::./experiences/1999-gemplus.adoc[tag=position;company]
+include::./_experiences/1999-gemplus.adoc[tag=position; company]
 
-include::./experiences/1997-euritis.adoc[tag=position;company]
+include::./_experiences/1997-euritis.adoc[tag=position; company]
 
 :leveloffset: -1

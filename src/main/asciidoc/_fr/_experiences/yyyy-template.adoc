@@ -1,11 +1,16 @@
+# https://resumeworded.com/solutions-architect-resume-examples
+# https://www.indeed.com/career-advice/resumes-cover-letters/solution-architect-resume
+
+// tag::resume[]
 // tag::position[]
-= Architecte de solution - *Consultant* - Juillet 2023
+= Poste - *Consultant* - MMM yyyy/MMM yyyy
 
 // end::position[]
 // tag::company[]
-== Bell Canada, Montréal
+== Company name, City
 
 // end::company[]
+// end::resume[]
 // tag::achivements[]
 * [Strong verb] + [job duty] + [impact]
 * Analyze IT infrastructure needs to determine project scope and resources
@@ -16,8 +21,6 @@
 // end::achivements[]
 // tag::environment[]
 Environnement::
-* OpenShift
-* DotNet micro-services
-* MS SQL Server
+* Environments list
 
 // end::environment[]
