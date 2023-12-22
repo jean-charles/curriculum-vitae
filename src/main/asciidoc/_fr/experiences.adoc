@@ -16,16 +16,16 @@ include::./_experiences/2011-morgan-stanley.adoc[]
 
 include::./_experiences/2007-gemalto.adoc[tag=resume]
 
-include::./_experiences/2006-lefebvre-software.adoc[tag=position; company]
+include::./_experiences/2006-lefebvre-software.adoc[tag=resume]
 
-include::./_experiences/2006-st-micro.adoc[tag=position; company]
+include::./_experiences/2006-st-micro.adoc[tag=resume]
 
-include::./_experiences/2005-arcelor-mittal.adoc[tag=position; company]
+include::./_experiences/2005-arcelor-mittal.adoc[tag=resume]
 
-include::./_experiences/2005-dhl.adoc[tag=position; company]
+include::./_experiences/2005-dhl.adoc[tag=resume]
 
-include::./_experiences/1999-gemplus.adoc[tag=position; company]
+include::./_experiences/1999-gemplus.adoc[tag=resume]
 
-include::./_experiences/1997-euritis.adoc[tag=position; company]
+include::./_experiences/1997-euritis.adoc[tag=resume]
 
 :leveloffset: -1
