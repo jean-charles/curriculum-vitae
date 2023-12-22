@@ -2,24 +2,24 @@
 = Expériences
 // end::title[]
 
-include::./_fr/experiences/2023-bell.adoc[]
+include::./experiences/2023-bell.adoc[]
 
-include::./_fr/experiences/2022-national-bank-of-canada.adoc[]
+include::./experiences/2022-national-bank-of-canada.adoc[]
 
-include::./_fr/experiences/2021-national-bank-of-canada.adoc[]
+include::./experiences/2021-national-bank-of-canada.adoc[]
 
-include::./_fr/experiences/2011-morgan-stanley.adoc[]
+include::./experiences/2011-morgan-stanley.adoc[]
 
-include::./_fr/experiences/2007-gemalto.adoc[]
+include::./experiences/2007-gemalto.adoc[]
 
-include::./_fr/experiences/2006-lefebvre-software.adoc[]
+include::./experiences/2006-lefebvre-software.adoc[]
 
-include::./_fr/experiences/2006-st-micro.adoc[]
+include::./experiences/2006-st-micro.adoc[]
 
-include::./_fr/experiences/2005-arcelor-mittal.adoc[]
+include::./experiences/2005-arcelor-mittal.adoc[]
 
-include::./_fr/experiences/2005-dhl.adoc[]
+include::./experiences/2005-dhl.adoc[]
 
-include::./_fr/experiences/1999-gemplus.adoc[]
+include::./experiences/1999-gemplus.adoc[]
 
-include::./_fr/experiences/1997-euritis.adoc[]
+include::./experiences/1997-euritis.adoc[]
