@@ -1,9 +1,13 @@
+// tag::position[]
+= Architecte de solution - *Consultant*
+
+// end::position[]
 // tag::company[]
-=== Banque Nationale, Montreal (QC) - 2022/2023
+= Banque Nationale, Montreal (QC) - 2022/2023
 
 // end::company[]
 // tag::project[]
-==== Assurances
+== Assurances
 
 Conception de l'API du domaine assurance qui sera utilisée par le CRM (SAP) dans la page des avoirs des clients.
 
@@ -26,7 +30,7 @@ Environnement::
 * WebFlux
 
 // tag::project[]
-==== Services numériques aux entreprises (BNE)
+== Services numériques aux entreprises (BNE)
 
 Conception de l'architecture pour l'intégration GCC, BNE Holding, Customer Cash Management, les notifications Mastercard et les produits TFC et l'intégration de l'application BackBase Employee avec Azure AD et IIQ.
 

@@ -1,0 +1,20 @@
+// tag::company[]
+= Company name, City - 2023-07/Actuel
+
+// end::company[]
+// tag::project[]
+== Project 1 name
+
+Project description (Multi-line).
+
+// end::project[]
+* Achivements list
+
+[horizontal]
+Compétences::
+* Skill list
+
+Environnement::
+* Environments list
+
+// tag::project[]

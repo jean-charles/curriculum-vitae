@@ -1,9 +1,9 @@
 // tag::position[]
-== Développeur Java - *Permanent*
+= Développeur Java - *Permanent*
 // end::position[]
 
 // tag::company[]
-*Gemplus (France)* - 1999/2003
+= *Gemplus (France)* - 1999/2003
 
 // end::company[]
 *Plate-forme d'envoi de SMS pour les clients GSM*

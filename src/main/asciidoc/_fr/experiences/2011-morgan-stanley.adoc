@@ -1,41 +1,41 @@
 // tag::position[]
-== Développeur Java Sénior - *Permanent*
+= Développeur Java Sénior - *Permanent*
 // end::position[]
 
 // tag::company[]
-=== Morgan Stanley, Montreal (QC) - 2011/2020
+== Morgan Stanley, Montreal (QC) - 2011/2020
 
 // end::company[]
 [horizontal]
 // tag::project[]
-==== 
+=== ...
 
 
 // end::project[]
-* 
+* ...
 
 // tag::project[]
-==== 871m
+=== 871m
 
 
 // end::project[]
-* 
+* ...
 
 // tag::project[]
-==== Taxman 3
+=== Taxman 3
 
 Création de l'architecture Taxman 3 utilisant Spring Integration afin de décupler les performances brutes.
 
 
 // end::project[]
-* 
+* ...
 
 // tag::project[]
 ==== Taxman 2
 Développement de nouvelles fonctionnalités dans l'application de calcul des taxes Taxman 2.
 
 // end::project[]
-* 
+* ...
 
 // tag::project[]
 ==== Customer Tax Portal

@@ -1,9 +1,9 @@
 // tag::company[]
-*Arcelor Mittal (France)* - 2005/2006
+= *Arcelor Mittal (France)* - 2005/2006
 
 // end::company[]
 // tag::project[]
-==== Application d'aide à la qualification de la qualité de production
+== Application d'aide à la qualification de la qualité de production
 
 // end::project[]
 * Écriture de la documentation technique

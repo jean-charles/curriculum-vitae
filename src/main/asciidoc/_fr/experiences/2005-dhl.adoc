@@ -1,9 +1,9 @@
 // tag::position[]
-== Développeur J2EE - *Consultant*
+= Développeur J2EE - *Consultant*
 // end::position[]
 
 // tag::company[]
-*DHL (France)* - 2005
+= *DHL (France)* - 2005
 
 // end::company[]
 *Applications Intranet*

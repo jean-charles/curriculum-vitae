@@ -1,9 +1,9 @@
 // tag::position[]
-== Développeur C & Java - *Permanent*
+= Développeur C & Java - *Permanent*
 // end::position[]
 
 // tag::company[]
-*Euritis (France)* - 1997/1999
+= *Euritis (France)* - 1997/1999
 
 // end::company[]
 *Projets Européens*

@@ -1,5 +1,5 @@
 // tag::company[]
-*ST Micro (France)* - 2006
+= *ST Micro (France)* - 2006
 
 // end::company[]
 [horizontal]

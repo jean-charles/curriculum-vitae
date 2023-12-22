@@ -1,10 +1,10 @@
 
 // tag::company[]
-*Gemalto (Montréal, QC)* - 2007/2011
+= *Gemalto (Montréal, QC)* - 2007/2011
 
 // end::company[]
 // tag::project[]
-==== Produit SIMMessenger
+== Produit SIMMessenger
 
 // end::project[]
 Développement d'une passerelle pour la messagerie instantanée sur mobile à l'aide de SMS
@@ -24,7 +24,7 @@ Environnement::
 * XSLT
 
 // tag::project[]
-==== Services financiers mobile
+== Services financiers mobile
 
 // end::project[]
 Participer à la mise en place d'un cadre hautement sécurisé pour les services financiers mobiles (banque, porte-monnaie électronique, etc.).

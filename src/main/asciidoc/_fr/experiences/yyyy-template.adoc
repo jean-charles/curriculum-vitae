@@ -1,0 +1,38 @@
+// tag::position[]
+= Architecte Logiciels - *Consultant*
+
+// end::position[]
+// tag::company[]
+= Company name, City - YYYY-MM/YYYY-MM
+
+// end::company[]
+// tag::project[]
+== Project 1 name
+
+Project description (Multi-line).
+
+// end::project[]
+* Achivements list
+
+[horizontal]
+Compétences::
+* Skill list
+
+Environnement::
+* Environments list
+
+// tag::project[]
+
+== Project 2 name
+
+Project description (Multi-line).
+
+// end::project[]
+* Achivements list
+
+[horizontal]
+Compétences::
+* Skill list
+
+Environnement::
+* Environments list

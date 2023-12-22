@@ -2,6 +2,8 @@
 = Expériences
 // end::title[]
 
+:leveloffset: +1
+
 include::./experiences/2023-bell.adoc[]
 
 include::./experiences/2022-national-bank-of-canada.adoc[]
@@ -23,3 +25,5 @@ include::./experiences/2005-dhl.adoc[]
 include::./experiences/1999-gemplus.adoc[]
 
 include::./experiences/1997-euritis.adoc[]
+
+:leveloffset: -1
