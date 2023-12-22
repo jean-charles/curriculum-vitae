@@ -13,45 +13,32 @@
 * Translate technical specifications for systems into product requirements and internal documents
 * Work with developers to streamline the development process and reduce production time
 
-// end::achivements[]
-// tag::environment[]
-Environnement::
-* Environments list
-
-// end::environment[]
-
-# ----------------------------------------------------------------
-
 *Projets Européens*
 * Développement d'applets signées utilisant des cartes à puce
 * Développement d'un proxy OCF pour piloter les lecteurs de cartes
-
-[horizontal]
-Environnement::
-* Java
-* OCF
-* Carte à puce
 
 *Mise oeuvre d'un environnement de développement pour JavaCard GSM*
 * Étude et mise en oeuvre d'un environnement de développement pour applet-GSM
 * Développement d'un pilote d'application JavaCard
 
-[horizontal]
-Environnement::
-* Java
-* JavaCard
-* Cartes GemXpresso
-* PVCS
-* Visual Café
-
 *Développement d'un serveur de base de donnée documentaire*
 * Maintenance logicielle du serveur de base de données documentaire
 * Développement en Langage C sur serveur SUN et Windows NT
 
-[horizontal]
+// end::achivements[]
+// tag::environment[]
 Environnement::
 * C
+* Java
+* OCF
+* Carte à puce
+* JavaCard
+* Cartes GemXpresso
+* PVCS
+* Visual Café
 * SUN OS
 * Windows NT
 * Microsoft Visual C++
 * GCC
+
+// end::environment[]
