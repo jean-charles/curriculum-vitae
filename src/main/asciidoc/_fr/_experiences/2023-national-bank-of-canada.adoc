@@ -1,6 +1,6 @@
 // tag::resume[]
 // tag::position[]
-= Architecte de solution - *Consultant* - Mars 2023/Juin 2023
+= Architecte de solution - Consultant - Mars 2023/Juin 2023
 
 // end::position[]
 // tag::company[]

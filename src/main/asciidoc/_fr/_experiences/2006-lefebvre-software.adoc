@@ -1,6 +1,6 @@
 // tag::resume[]
 // tag::position[]
-= Architecte J2EE - *Consultant* - 2006/2007
+= Architecte J2EE - Consultant - 2006/2007
 
 // end::position[]
 // tag::company[]

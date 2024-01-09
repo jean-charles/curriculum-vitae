@@ -1,6 +1,6 @@
 // tag::resume[]
 // tag::position[]
-= Poste - *Consultant* - 2007/2011
+= Poste - Permanent - 2007/2011
 
 // end::position[]
 // tag::company[]

@@ -1,6 +1,6 @@
 // tag::resume[]
 // tag::position[]
-= Développeur Java Sénior - *Permanent* - 2011/2020
+= Développeur Java Sénior - Permanent - 2011/2020
 
 // end::position[]
 // tag::company[]

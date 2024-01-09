@@ -3,7 +3,7 @@
 
 // tag::resume[]
 // tag::position[]
-= Poste - *Consultant* - MMM yyyy/MMM yyyy
+= Poste - Consultant/Permanent - MMM yyyy/MMM yyyy
 
 // end::position[]
 // tag::company[]

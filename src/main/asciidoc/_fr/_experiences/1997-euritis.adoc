@@ -1,6 +1,6 @@
 // tag::resume[]
 // tag::position[]
-= Développeur C & Java - *Permanent* - 1997/1999
+= Développeur C & Java - Permanent - 1997/1999
 
 // end::position[]
 // tag::company[]

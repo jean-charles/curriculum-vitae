@@ -1,6 +1,6 @@
 // tag::resume[]
 // tag::position[]
-= Architecte Logiciels - *Consultant* - Août 2021/Juillet 2022
+= Architecte Logiciels - Consultant - Août 2021/Juillet 2022
 
 // end::position[]
 // tag::company[]
