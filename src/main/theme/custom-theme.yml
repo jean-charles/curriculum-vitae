@@ -15,12 +15,6 @@ title-page:
     display: none
   revision:
     display: none
-# cover:
-#   front:
-#     image: image:cover.png[]
-# sidebar:
-#   background-color: ee0000
-#   font-style: bold
 base:
   font-color: 333333
   font-family: Helvetica
@@ -28,13 +22,6 @@ base:
   line-height-length: 17
   line-height: $base-line-height-length / $base-font-size
 vertical-spacing: $base-line-height-length
-# image:
-#   align: center
-# caption:
-#   align: center
-#   font-family: Courier
-#   font-color: 0000FF
-#   font-size: 10
 heading:
   font-family: Helvetica
   font-color: 262626
@@ -46,8 +33,6 @@ link:
   font-color: 002FA7
 list:
   indent: $base-font-size * 1.5
-# outline-list:
-#   indent: $base-font-size * 1.5
 header:
   height: 0.75in
   line-height: 1
