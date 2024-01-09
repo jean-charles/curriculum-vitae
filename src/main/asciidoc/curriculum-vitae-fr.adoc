@@ -1,5 +1,15 @@
-= Jean-Charles Giardina
-== Architecte de Solution
+[%notitle]
+= Architecte de Solution
+:title-page-background-image: image:_fr/cover.png[]
+:author: Jean-Charles Giardina
+:email: jean-charles.giardina@gayasystem.com
+:revnumber: v1.0
+:revdate: 2024-01-09
+:revremark: Initial Release
+:doctype: book
+:toc:
+:encoding: utf-8
+:lang: fr
 
 :leveloffset: +1
 
@@ -9,9 +19,9 @@ include::./_fr/professional-summary.adoc[]
 
 include::./_fr/languages.adoc[]
 
-include::./_fr/experiences.adoc[]
-
 include::./_fr/skills.adoc[]
+
+include::./_fr/experiences.adoc[]
 
 include::./_fr/achievements.adoc[]
 

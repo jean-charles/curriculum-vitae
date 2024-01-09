@@ -1,4 +1,14 @@
 = Solution Architect
+:title-page-background-image: image:_en/cover.png[]
+:author: Jean-Charles Giardina
+:email: jean-charles.giardina@gayasystem.com
+:revnumber: v1.0
+:revdate: 2024-01-09
+:revremark: Initial Release
+:doctype: book
+:toc:
+:encoding: utf-8
+:lang: fr
 
 [.informations]
 == !
