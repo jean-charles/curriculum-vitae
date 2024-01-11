@@ -24,6 +24,7 @@
 // end::achivements[]
 // tag::environment[]
 Environnement::
+[inline]
 * C
 * Java
 * OCF: Open Connectivity Foundation
