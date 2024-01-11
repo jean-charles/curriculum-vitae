@@ -24,7 +24,7 @@ include::./_fr/skills.adoc[]
 
 include::./_fr/experiences.adoc[]
 
-include::./_fr/achievements.adoc[]
+// include::./_fr/achievements.adoc[]
 
 include::./_fr/education.adoc[]
 
