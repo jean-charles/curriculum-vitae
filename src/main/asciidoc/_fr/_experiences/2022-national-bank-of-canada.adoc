@@ -1,28 +1,30 @@
 // tag::resume[]
 // tag::position[]
-= Architecte de solution - Consultant - Août 2022/Mars 2023
-
-// end::position[]
-// tag::company[]
-== Banque Nationale, Montréal
+= Août 2022/Mars 2023 Banque Nationale - Architecte de solution (Consultant)
 
 Services numériques aux entreprises. Conception de l'architecture pour l'intégration GCC, BNE Holding, Customer Cash Management, les notifications Mastercard et les produits TFC et l'intégration de l'application BackBase Employee avec Azure AD et IIQ.
 
+// end::position[]
+// tag::company[]
+== Banque Nationale
+* Montréal, Canada
+* 3 400 employés
+* Services finaciers
+
 // end::company[]
 // end::resume[]
-// tag::achivements[]
-* [Strong verb] + [job duty] + [impact]
-* Analyze IT infrastructure needs to determine project scope and resources
-* Designed and implemented new cloud architecture solutions for clients, reducing customer churn by 30%
-* Translate technical specifications for systems into product requirements and internal documents
-* Work with developers to streamline the development process and reduce production time
 
+// tag::achivements[]
+// tag::project[]
+=== Services numériques aux entreprises. Conception de l'architecture pour l'intégration GCC, BNE Holding, Customer Cash Management, les notifications Mastercard et les produits TFC et l'intégration de l'application BackBase Employee avec Azure AD et IIQ.
 * Discussion coordonnée avec l'architecte de domaine et l'équipe CRM
 * Rédaction de documentation d'architecture sur Confluence à l'aide de Draw.io
 * Présentation de l'architecture à tous les architectes BNC (réunion AAA)
 * Accompagnement des développeurs
 
+// end::project[]
 // end::achivements[]
+
 // tag::environment[]
 Environnement::
 * Open API

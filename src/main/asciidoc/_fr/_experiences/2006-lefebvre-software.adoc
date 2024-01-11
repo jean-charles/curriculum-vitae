@@ -1,28 +1,28 @@
 // tag::resume[]
 // tag::position[]
-= Architecte J2EE - Consultant - 2006/2007
+= 2006/2007 Lefebvre Software - Architecte J2EE (Consultant)
 
 // end::position[]
 // tag::company[]
-== Lefebvre Software, Marseille, France
-
-Application de gestion et de comptabilité
+== Lefebvre Software
+* Marseille, France
+* 350 employés
+* Éditeur et intégrateur de solutions de gestion d’entreprise (ERP)
 
 // end::company[]
 // end::resume[]
-// tag::achivements[]
-* [Strong verb] + [job duty] + [impact]
-* Analyze IT infrastructure needs to determine project scope and resources
-* Designed and implemented new cloud architecture solutions for clients, reducing customer churn by 30%
-* Translate technical specifications for systems into product requirements and internal documents
-* Work with developers to streamline the development process and reduce production time
 
+// tag::achivements[]
+// tag::project[]
+=== Application de gestion et de comptabilité
 * Écriture de la documentation technique
 * Correction et développement de la WebApplication en Struts avec Eclipse
 * Écriture des tests unitaires avec Junit et Cactus
 * Intégration d’un framework propriétaire (NQI)
 
+// end::project[]
 // end::achivements[]
+
 // tag::environment[]
 Environnement::
 * J2EE

@@ -1,27 +1,27 @@
 // tag::resume[]
 // tag::position[]
-= Développeur J2EE - Consultant - 2005
+= 2005 DHL - Développeur J2EE (Consultant)
 
 // end::position[]
 // tag::company[]
-== DHL, Marseille, France
-
-Applications Intranet
+== DHL
+* Marseille, France
+* 600 000 employés
+* Logistique
 
 // end::company[]
 // end::resume[]
-// tag::achivements[]
-* [Strong verb] + [job duty] + [impact]
-* Analyze IT infrastructure needs to determine project scope and resources
-* Designed and implemented new cloud architecture solutions for clients, reducing customer churn by 30%
-* Translate technical specifications for systems into product requirements and internal documents
-* Work with developers to streamline the development process and reduce production time
 
+// tag::achivements[]
+// tag::project[]
+=== Applications Intranet
 * Écriture de la documentation technique et des plans de tests
 * Développement J2EE avec Eclipse, Hibernate, Struts
 * Contact direct avec les utilisateurs
 
+// end::project[]
 // end::achivements[]
+
 // tag::environment[]
 Environnement::
 * WebLogic

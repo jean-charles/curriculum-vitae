@@ -1,13 +1,17 @@
 // tag::resume[]
 // tag::position[]
-= Développeur Java Sénior - Permanent - 2011/2020
+= Novembre 2011/Décembre 2020 Morgan Stanley - Développeur Java Sénior (Permanent)
 
 // end::position[]
 // tag::company[]
-== Morgan Stanley, Montréal
+== Morgan Stanley
+* Montréal. Canada
+* 60 000 employés
+* Banque d'investissement et gestion d'actifs.
 
 // end::company[]
 // end::resume[]
+
 // tag::achivements[]
 * [Strong verb] + [job duty] + [impact]
 * Analyze IT infrastructure needs to determine project scope and resources
@@ -15,22 +19,10 @@
 * Translate technical specifications for systems into product requirements and internal documents
 * Work with developers to streamline the development process and reduce production time
 
-// end::achivements[]
-// tag::environment[]
-Environnement::
-* Environments list
-
-// end::environment[]
-
-# ----------------------------------------------------------------
-
 // tag::project[]
 === 871m
 
-
 // end::project[]
-* ...
-
 // tag::project[]
 === Taxman 3
 
@@ -38,24 +30,29 @@ Création de l'architecture Taxman 3 utilisant Spring Integration afin de décup
 
 
 // end::project[]
-* ...
-
 // tag::project[]
 ==== Taxman 2
 Développement de nouvelles fonctionnalités dans l'application de calcul des taxes Taxman 2.
 
 // end::project[]
-* ...
-
 // tag::project[]
-==== Customer Tax Portal
+=== Customer Tax Portal
 
 Dévelopement et conception d'un portail web en Flex.
 Architecture logicielle et migration du portail vers ExtJS de Sencha.
-
-// end::project[]
 * Développement Flex et Javascript du portail
 * Intégration des clients suisses dans le portail
+
+// end::project[]
+// end::achivements[]
+
+// tag::environment[]
+Environnement::
+* Environments list
+
+// end::environment[]
+
+// ----------------------------------------------------------------
 
 , Taxman 2 et Taxman 3 (Création de l'architecture Taxman 3) et 871m (utilisation de l'architecture basée sur Taxman 3)
 * Coordonner l'intégration avec l'équipe de documentation des clients

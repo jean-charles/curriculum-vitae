@@ -1,28 +1,31 @@
 // tag::resume[]
 // tag::position[]
-= Architecte de solution - Consultant - Mars 2023/Juin 2023
-
-// end::position[]
-// tag::company[]
-== Banque Nationale Assurances, Montréal
+=  Mars 2023/Juin 2023 Banque Nationale Assurances - Architecte de solution (Consultant)
 
 Conception de l'API du domaine assurance qui sera utilisée par le CRM (SAP) dans la page des avoirs des clients.
 
+// end::position[]
+// tag::company[]
+== Banque Nationale Assurances
+* Montréal, Canada
+* 3 400 employés
+* Services finaciers
+
+
 // end::company[]
 // end::resume[]
-// tag::achivements[]
-* [Strong verb] + [job duty] + [impact]
-* Analyze IT infrastructure needs to determine project scope and resources
-* Designed and implemented new cloud architecture solutions for clients, reducing customer churn by 30%
-* Translate technical specifications for systems into product requirements and internal documents
-* Work with developers to streamline the development process and reduce production time
 
+// tag::achivements[]
+// tag::project[]
+=== Conception de l'API du domaine assurance qui sera utilisée par le CRM (SAP) dans la page des avoirs des clients.
 * Discussion coordonnée avec l'architecte de domaine et l'équipe CRM
 * Rédaction de documentation d'architecture sur Confluence à l'aide de Draw.io
 * Prototypage des micro services AWS EKS (Java, WebFlux et Istio)
 * Accompagnement de l'équipe de développement situé en Thaïlande
 
+// end::project[]
 // end::achivements[]
+
 // tag::environment[]
 Environnement::
 * Open API

@@ -3,22 +3,32 @@
 
 // tag::resume[]
 // tag::position[]
-= Poste - Consultant/Permanent - MMM yyyy/MMM yyyy
+= MMM yyyy/MMM yyyy Company name - Poste (Consultant/Permanent)
+
+Position description.
 
 // end::position[]
 // tag::company[]
-== Company name, City
+== Company name
+* City, Country
+* XXXX employees
+* Activity
 
 // end::company[]
 // end::resume[]
+
 // tag::achivements[]
+// tag::project[]
+=== Project title
 * [Strong verb] + [job duty] + [impact]
 * Analyze IT infrastructure needs to determine project scope and resources
 * Designed and implemented new cloud architecture solutions for clients, reducing customer churn by 30%
 * Translate technical specifications for systems into product requirements and internal documents
 * Work with developers to streamline the development process and reduce production time
 
+// end::project[]
 // end::achivements[]
+
 // tag::environment[]
 Environnement::
 * Environments list

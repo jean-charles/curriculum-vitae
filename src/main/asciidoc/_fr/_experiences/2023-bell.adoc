@@ -1,21 +1,28 @@
 // tag::resume[]
 // tag::position[]
-= Architecte de solution - Consultant - Juillet 2023
+= Juillet 2023/Actuel Bell Canada - Architecte de solution (Consultant)
 
 // end::position[]
 // tag::company[]
-== Bell Canada, Montréal
+== Bell Canada
+* Montréal, Canada
+* 32 000 employés
+* Télécomunications et médias
 
 // end::company[]
 // end::resume[]
+
 // tag::achivements[]
+// tag::project[]
 * [Strong verb] + [job duty] + [impact]
 * Analyze IT infrastructure needs to determine project scope and resources
 * Designed and implemented new cloud architecture solutions for clients, reducing customer churn by 30%
 * Translate technical specifications for systems into product requirements and internal documents
 * Work with developers to streamline the development process and reduce production time
 
+// end::project[]
 // end::achivements[]
+
 // tag::environment[]
 Environnement::
 * OpenShift

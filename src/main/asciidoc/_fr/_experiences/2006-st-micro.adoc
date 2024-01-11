@@ -1,22 +1,21 @@
 // tag::resume[]
 // tag::position[]
-= Architecte J2EE - Consultant - 2006
+= 2006 ST Microelectronics - Architecte J2EE (Consultant)
+
+Responsable de la mise en oeuvre d'un module d'authentification LDAP.
 
 // end::position[]
 // tag::company[]
-== ST Micro, Rousset, France
+== ST Microelectronics
+* Rousset, France
+* 6 000 employés
+* Frabricant de semiconducteurs
 
 Application financière
 
 // end::company[]
 // end::resume[]
 // tag::achivements[]
-* [Strong verb] + [job duty] + [impact]
-* Analyze IT infrastructure needs to determine project scope and resources
-* Designed and implemented new cloud architecture solutions for clients, reducing customer churn by 30%
-* Translate technical specifications for systems into product requirements and internal documents
-* Work with developers to streamline the development process and reduce production time
-
 * Écriture du document d'architecture
 * Formation et supervision de l'équipe de développement
 * Mise en oeuvre d'un module d'authentification LDAP sur le serveur JBoss

@@ -8,6 +8,7 @@
 :revremark: Initial Release
 :doctype: book
 :toc:
+:toc-title: Table des matières
 :encoding: utf-8
 :lang: fr
 

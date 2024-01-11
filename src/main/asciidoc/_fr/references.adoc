@@ -1,12 +1,19 @@
 = Références
 
-[horizontal]
+Bell Canada::
+* https://www.linkedin.com/in/martin-landry-a618031a//[Martin Landry]
+* https://www.linkedin.com/in/philippe-fortin-043b0284/[Philippe Fortin]
+* https://www.linkedin.com/in/romainnlefebvre/[Romain Lefebvre]
+* https://www.linkedin.com/in/zakaria-rafiq-92964268/[Zakaria Rafiq]
+
+Banque Nationale Assurance::
+* https://www.linkedin.com/in/kathleenlancup/[Kathleen Lancup]
+* https://www.linkedin.com/in/yvan-brais-10075a212/[Yvan Brais]
+
 Banque Nationale::
 * https://www.linkedin.com/in/gpatenaude/[Guillaume Patenaude]
 * https://www.linkedin.com/in/jérémie-fontanaud-61909a33/[Jérémie Fontanaud]
-* https://www.linkedin.com/in/kathleenlancup/[Kathleen Lancup]
 * https://www.linkedin.com/in/saadbenbouzid/[Saad Benbouzid]
-* https://www.linkedin.com/in/yvan-brais-10075a212/[Yvan Brais]
 
 Morgan Stanley::
 * https://www.linkedin.com/in/martin-guilbault-4ba1819/[Martin Guilbault]
