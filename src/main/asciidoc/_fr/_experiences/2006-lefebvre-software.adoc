@@ -1,10 +1,10 @@
 // tag::resume[]
 // tag::position[]
-= 2006/2007 Lefebvre Software - Architecte J2EE (Consultant)
+= 2006/2007 CMS Bureau Francis Lefebvre - Architecte J2EE (Consultant)
 
 // end::position[]
 // tag::company[]
-== Lefebvre Software
+== CMS Bureau Francis Lefebvre
 * Marseille, France
 * 350 employés
 * Éditeur et intégrateur de solutions de gestion d’entreprise (ERP)
