@@ -44,14 +44,6 @@
                         <version>${asciidoctorj.version}</version>
                     </dependency>
                 </dependencies>
-                <configuration>
-                    <sourceDirectory>src/main/asciidoc</sourceDirectory>
-                    <stylesheet>_template/curriculum-vitae.css</stylesheet>
-                    <!-- Attributes common to all output formats -->
-                    <attributes>
-                        <sourcedir>${project.build.sourceDirectory}</sourcedir>
-                    </attributes>
-                </configuration>
                 <executions>
                     <execution>
                         <id>generate-pdf-doc</id>
