@@ -1,72 +1,36 @@
 = Architecte de Solution
-Jean-Charles Giardina
-v{revnumber}, {docdate}
-////
-:title-page:
-:title-logo-image: image:logo.png[pdfwidth=3.00in,align=center]
-////
+:author: Jean-Charles Giardina
+:email: jean-charles.giardina@gayasystem.com
+:revnumber: v1.0
+:revdate: 2024-01-09
+:revremark: Initial Release
 
 :leveloffset: +1
 
-include::./_fr/contact.adoc[]
+// include::./_fr/contact.adoc[]
+d
+include::./_fr/_experiences/2023-bell.adoc[tag=resume]
 
-include::./_fr/experiences.adoc[tags=title;position;company]
+include::./_fr/_experiences/2023-national-bank-of-canada.adoc[tag=resume]
+
+include::./_fr/_experiences/2022-national-bank-of-canada.adoc[tag=resume]
+
+include::./_fr/_experiences/2021-national-bank-of-canada.adoc[tag=resume]
+
+include::./_fr/_experiences/2011-morgan-stanley.adoc[tag=resume]
+
+include::./_fr/_experiences/2007-gemalto.adoc[tag=position]
+
+include::./_fr/_experiences/2006-lefebvre-software.adoc[tag=position]
+
+include::./_fr/_experiences/2006-st-micro.adoc[tag=position]
+
+include::./_fr/_experiences/2005-arcelor-mittal.adoc[tag=position]
+
+include::./_fr/_experiences/2005-dhl.adoc[tag=position]
+
+include::./_fr/_experiences/1999-gemplus.adoc[tag=position]
+
+include::./_fr/_experiences/1997-euritis.adoc[tag=position]
 
 :leveloffset: -1
-////
-.CSV data, 15% each column
-[format="csv",width="60%",cols="4",options="header"]
-[frame="topbot",grid="none"]
-|======
-1,2,3,4
-a,b,c,d
-A,B,C,D
-|======
-
-|====
-|Date |Duration |Avg HR |Notes
-
-|22-Aug-08 .2+^.^|10:24 | 157 |
-Worked out MSHR (max sustainable
-heart rate) by going hard
-for this interval.
-
-|22-Aug-08 | 152 |
-Back-to-back with previous interval.
-
-|24-Aug-08 3+^|none
-|====
-
-TIP: Pro tip...
-
-IMPORTANT: Don't forget...
-
-WARNING: Watch out for...
-
-CAUTION: Ensure that..
-
-.CSV data, 15% each column
-[format="csv",width="60%",cols="4",options="header"]
-[frame="topbot",grid="none"]
-|======
-include::table.csv[]
-|======
-
-[source,java]
-----
-public class HelloWorld {
-  public static void main(String args[]) {
-    System.out.println("Hello, world!"); (1)
-  }
-}
-----
-<1> Prints "Hello, world!" to the console.
-
-@startuml
-Alice -> Bob: Authentication Request
-Bob --> Alice: Authentication Response
-
-Alice -> Bob: Another authentication Request
-Alice <-- Bob: another authentication Response#
-@enduml
-////

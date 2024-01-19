@@ -1,11 +1,36 @@
 = Solution Architect
-Jean-Charles Giardina
-v{revnumber}, {docdate}
+:author: Jean-Charles Giardina
+:email: jean-charles.giardina@gayasystem.com
+:revnumber: v1.0
+:revdate: 2024-01-09
+:revremark: Initial Release
 
 :leveloffset: +1
 
-include::./_en/contact.adoc[]
+// include::./_fr/contact.adoc[]
 
-include::./_en/experiences.adoc[tag=title]
+include::./_fr/_experiences/2023-bell.adoc[tag=resume]
+
+include::./_fr/_experiences/2023-national-bank-of-canada.adoc[tag=resume]
+
+include::./_fr/_experiences/2022-national-bank-of-canada.adoc[tag=resume]
+
+include::./_fr/_experiences/2021-national-bank-of-canada.adoc[tag=resume]
+
+include::./_fr/_experiences/2011-morgan-stanley.adoc[tag=resume]
+
+include::./_fr/_experiences/2007-gemalto.adoc[tag=position]
+
+include::./_fr/_experiences/2006-lefebvre-software.adoc[tag=position]
+
+include::./_fr/_experiences/2006-st-micro.adoc[tag=position]
+
+include::./_fr/_experiences/2005-arcelor-mittal.adoc[tag=position]
+
+include::./_fr/_experiences/2005-dhl.adoc[tag=position]
+
+include::./_fr/_experiences/1999-gemplus.adoc[tag=position]
+
+include::./_fr/_experiences/1997-euritis.adoc[tag=position]
 
 :leveloffset: -1
