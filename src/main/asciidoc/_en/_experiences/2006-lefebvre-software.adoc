@@ -1,0 +1,36 @@
+// tag::resume[]
+// tag::position[]
+= 2006/2007 CMS Bureau Francis Lefebvre - Architecte J2EE (Consultant)
+
+// end::position[]
+// tag::company[]
+== CMS Bureau Francis Lefebvre
+* Marseille, France
+* 350 employés
+* Éditeur et intégrateur de solutions de gestion d’entreprise (ERP)
+
+// end::company[]
+// end::resume[]
+
+// tag::achivements[]
+// tag::project[]
+=== Application de gestion et de comptabilité
+* Écriture de la documentation technique
+* Correction et développement de la WebApplication en Struts avec Eclipse
+* Écriture des tests unitaires avec Junit et Cactus
+* Intégration d’un framework propriétaire (NQI)
+
+// end::project[]
+// end::achivements[]
+
+// tag::environment[]
+Environnement::
+* J2EE
+* Eclipse
+* JBoss
+* Struts
+* NQI
+* Junit
+* Cactus
+
+// end::environment[]

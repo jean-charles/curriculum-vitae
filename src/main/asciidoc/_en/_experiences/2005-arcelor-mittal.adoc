@@ -1,0 +1,47 @@
+// tag::resume[]
+// tag::position[]
+= 2005/2006 ArcelorMittal - Architecte J2EE (Consultant)
+
+Architecte J3EE en charge de l'intégration du moteur d'analyse de qualité de l'acier au serveur de suivi de production.
+
+// end::position[]
+// tag::company[]
+== Arcelor Mittal
+* Fos-sur-Mer, France
+* 155 000 employés
+* Groupe sidérurgique
+
+// end::company[]
+// end::resume[]
+
+// tag::achivements[]
+// tag:project[]
+=== Application d'aide à la qualification de la qualité de production.
+* Écriture de la documentation technique
+* Développement de la WebApplication en Struts avec Eclipse
+* Écriture des tests unitaires avec Junit
+* Intégration du framework maison (FOX)
+* Intégration du moteur de règles JRules
+
+// end:project[]
+// tag:project[]
+=== Application de simulation de production d'acier
+* Écriture de la documentation technique
+* Développement de la WebApplication en Struts avec Eclipse
+* Écriture des tests unitaires avec Junit
+* Intégration du framework maison (FOX)
+* Intégration du moteur de règles JRules
+
+// end:project[]
+// end::achivements[]
+
+// tag::environment[]
+Environnement::
+* J2EE
+* Eclipse
+* Tomcat
+* Struts
+* Junit
+* JRules
+
+// end::environment[]

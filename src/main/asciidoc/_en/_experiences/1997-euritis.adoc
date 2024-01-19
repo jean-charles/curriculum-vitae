@@ -1,0 +1,53 @@
+// tag::resume[]
+// tag::position[]
+= 1997/1999 Euritis - Développeur C & Java (Permanent) 
+
+Développeur C, C++ et Java. Responsable de la maintenance de la base de donnée documentaire.
+
+// end::position[]
+// tag::company[]
+== Euritis
+* Marseille, France
+* 25 employés
+* Société de développement logiciel
+
+// end::company[]
+// end::resume[]
+
+// tag::achivements[]
+// tag::project[]
+=== Projets Européens
+* Développement d'applets signées utilisant des cartes à puce pour signer des documents
+* Développement d'un proxy OCF pour piloter les lecteurs de cartes
+
+// end::project[]
+// tag::project[]
+=== Mise oeuvre d'un environnement de développement pour JavaCard GSM
+* Étude et mise en oeuvre d'un environnement de développement pour applet-GSM
+* Développement d'un pilote d'application JavaCard
+
+// end::project[]
+// tag::project[]
+=== Développement d'un serveur de base de donnée documentaire
+* Maintenance logicielle du serveur de base de données documentaire
+* Développement en Langage C sur serveur SUN et Windows NT
+
+// end::project[]
+// end::achivements[]
+
+// tag::environment[]
+Environnement::
+* C
+* Java
+* OCF: Open Connectivity Foundation
+* Carte à puce
+* JavaCard
+* Cartes GemXpresso
+* PVCS
+* Visual Café
+* SUN OS
+* Windows NT
+* Microsoft Visual C++
+* GCC
+
+// end::environment[]

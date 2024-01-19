@@ -1,3 +1,4 @@
+[%notitle]
 = Solution Architect
 :title-page-background-image: image:_en/cover.png[]
 :author: Jean-Charles Giardina
@@ -7,34 +8,28 @@
 :revremark: Initial Release
 :doctype: book
 :toc:
+:toc-title: Table of contents
 :encoding: utf-8
-:lang: fr
+:lang: en
 
-[.informations]
-== !
-:leveloffset: +2
-
-include::./_en/profile.adoc[]
+:leveloffset: +1
 
 include::./_en/contact.adoc[]
 
+include::./_fr/professional-summary.adoc[]
+
 include::./_en/languages.adoc[]
 
-include::./_en/expertises.adoc[]
+include::./_en/skills.adoc[]
 
-include::./_en/achievements.adoc[]
+include::./_fr/experiences.adoc[]
+
+// include::./_en/achievements.adoc[]
 
 include::./_en/references.adoc[]
 
-:leveloffset: -2
+include::./_fr/education.adoc[]
 
-[.experiences]
-== !
+include::./_fr/references.adoc[]
 
-:leveloffset: +2
-
-include::./_en/experiences.adoc[]
-
-include::./_en/education.adoc[]
-
-:leveloffset: -2
+:leveloffset: -1

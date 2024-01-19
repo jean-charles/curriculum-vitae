@@ -1,4 +1,4 @@
-= Expertises
+= Skills
 
 * Jira
 * Confluence

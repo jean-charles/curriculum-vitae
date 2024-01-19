@@ -1,0 +1,82 @@
+// tag::resume[]
+// tag::position[]
+= Novembre 2011/Décembre 2020 Morgan Stanley - Développeur Java Sénior (Permanent)
+
+Développement d'applications d'entreprise, gestionnaire de livraison et architecte de solutions – Retenue d'impôt institutionnel aux États-Unis
+
+// end::position[]
+// tag::company[]
+== Morgan Stanley
+* Montréal. Canada
+* 60 000 employés
+* Banque d'investissement et gestion d'actifs.
+
+// end::company[]
+// end::resume[]
+
+// tag::achivements[]
+// tag::project[]
+=== 871m
+
+Développeur, chef de projet et architecte de solutions à la conception et à la mise en œuvre d'un nouveau système de capture de transactions et d'agrégation de flux de trésorerie pour les dérivés actions.
+
+* Utilisation de l'architecture de Taxman 3
+* Création de la documentation applicative
+* Tests unitaires implémentés à l'aide de JUnits et Mockito
+
+// end::project[]
+// tag::project[]
+=== Taxman 3
+
+Création de l'architecture Taxman 3 utilisant Spring Integration afin de décupler les performances brutes.
+
+* Gestion d'une équipe de 4 développeurs pour la mise en oeuvre de l'architecture
+* Mise en oeuvre des tests de bout en bout avec Spring test et DB Unit
+
+// end::project[]
+// tag::project[]
+==== Taxman 2
+
+Conception et mise en œuvre de la transaction fiscale financière sur les actions et les produits dérivés pour la France et l'Italie. Travail sur le backend avec MQ, DB2 et Spring.
+
+* Développement de nouvelles fonctionnalités dans l'application de calcul des taxes Taxman 2
+* Maintenance d'un système haut profil/haut volume en Java
+* Utilisation de technologies Java de pointe telles que JMS, CXF, Hibernate et Spring Framework
+* Coordonner l'intégration avec l'équipe de documentation des clients
+
+// end::project[]
+// tag::project[]
+=== Customer Tax Portal
+
+Dévelopement et conception d'un portail web en Flex. Modification de l'architecture pour migrer le portail sur ExtJS de Sencha  et de sockets Web pour transmettre la notification de mise à jour des données à nos utilisateurs.
+
+* Développement Flex et Javascript du portail
+* Intégration des clients suisses dans le portail avec ajout de sécurité d'accès aux données
+
+// end::project[]
+// end::achivements[]
+
+// tag::environment[]
+Environnement::
+* Environments list
+
+// end::environment[]
+
+Tests : Junit, DBUnit, Mockito, Spring test.
+
+Environnement::
+* Eclipse
+* Git
+* Java
+* Spring
+* Spring Integration
+* Multithreading
+* ExtJS
+* MQ
+* JMS
+* DB2
+* Jira
+* Splunk
+* Perl
+* UML
+* MS Project

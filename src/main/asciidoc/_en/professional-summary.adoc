@@ -1,0 +1,3 @@
+= Professional summary
+
+27 years of experience in creating banking architecture and developing backend solutions. Experienced AWS architect with extensive experience in the financial field.
