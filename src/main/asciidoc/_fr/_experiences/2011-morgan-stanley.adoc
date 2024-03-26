@@ -2,7 +2,7 @@
 // tag::position[]
 = Novembre 2011/Décembre 2020 Morgan Stanley - Développeur Java Sénior (Permanent)
 
-Développement d'applications d'entreprise, gestionnaire de livraison et architecte de solutions – Retenue d'impôt institutionnel aux États-Unis
+Développement d'applications d'entreprise, gestionnaire de livraison et architecte de solutions – Retenue d'impôt institutionnel aux États-Unis.
 
 // end::position[]
 // tag::company[]
@@ -58,18 +58,14 @@ Dévelopement et conception d'un portail web en Flex. Modification de l'architec
 
 // tag::environment[]
 Environnement::
-* Environments list
-
-// end::environment[]
-
-Tests : Junit, DBUnit, Mockito, Spring test.
-
-Environnement::
 * Eclipse
 * Git
 * Java
 * Spring
 * Spring Integration
+* Spring test
+* Mockito
+* DBUnit
 * Multithreading
 * ExtJS
 * MQ
@@ -80,3 +76,5 @@ Environnement::
 * Perl
 * UML
 * MS Project
+
+// end::environment[]

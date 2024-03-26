@@ -2,6 +2,8 @@
 // tag::position[]
 = 2007/2011 Gemalto - Développeur Java Sénior - (Permanent)
 
+Architecture, conception et développement Java des applications serveur dans le domaine financier mobile.
+
 // end::position[]
 // tag::company[]
 == Gemalto

@@ -1,6 +1,6 @@
 = Contact
 
 * {author} <{email}>
-* +1 514-909-5072
+* {phone}
 * http://bit.ly/linkedin-jcg
 * Montréal (QC), Canada

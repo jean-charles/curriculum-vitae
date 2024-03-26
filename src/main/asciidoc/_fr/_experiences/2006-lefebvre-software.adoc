@@ -2,6 +2,8 @@
 // tag::position[]
 = 2006/2007 CMS Bureau Francis Lefebvre - Architecte J2EE (Consultant)
 
+Développement d'une application de gestion et de comptabilité.
+
 // end::position[]
 // tag::company[]
 == CMS Bureau Francis Lefebvre

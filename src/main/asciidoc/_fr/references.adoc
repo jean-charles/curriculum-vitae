@@ -1,10 +1,10 @@
 = Références
 
 Bell Canada::
-* https://www.linkedin.com/in/martin-landry-a618031a//[Martin Landry]
 * https://www.linkedin.com/in/philippe-fortin-043b0284/[Philippe Fortin]
-* https://www.linkedin.com/in/romainnlefebvre/[Romain Lefebvre]
 * https://www.linkedin.com/in/zakaria-rafiq-92964268/[Zakaria Rafiq]
+* https://www.linkedin.com/in/romainbourgade/[Romain Bourgade]
+* https://www.linkedin.com/in/martin-landry-a618031a[Martin Landry]
 
 Banque Nationale Assurance::
 * https://www.linkedin.com/in/kathleenlancup/[Kathleen Lancup]
