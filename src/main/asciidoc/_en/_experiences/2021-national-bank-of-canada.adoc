@@ -2,15 +2,15 @@
 // tag::position[]
 = Août 2021/Juillet 2022 Banque Nationale - Architecte Logiciels (Consultant)
 
-Conception d'une architecture logicielle pour synchroniser l'ancien MS SQL Server avec MDM-AE en utilisant les micro-services dans AWS EKS.
-Gestion d'un repo GitHub pour centraliser les fichiers OpenAPI afin de forcer le développement des contrats avant le code.
+Conception d'une architecture de micro-services dans AWS EKS pour synchroniser une application de base de donnée sur site avec les applications de la banque dans le cadre du projet Services numériques aux entreprises.
+Création d'un dépôt GitHub pour centraliser les fichiers OpenAPI afin de forcer le développement des contrats avant le code.
 
 // end::position[]
 // tag::company[]
 == Banque Nationale
 * Montréal, Canada
 * 3 400 employés
-* Services finaciers
+* Services financiers
 
 // end::company[]
 // end::resume[]
@@ -18,14 +18,19 @@ Gestion d'un repo GitHub pour centraliser les fichiers OpenAPI afin de forcer le
 // tag::achivements[]
 // tag::project[]
 === Services numériques aux entreprises (BNE)
+* Création de l'architecture logicielle
+* Maintenance de la documentation
+* Présentation de l'architecture aux architectes applicatifs
+* Support des développeurs
 
 // end::project[]
-// tag::project[]
-=== Conception d'une architecture logicielle pour synchroniser l'ancien MS SQL Server avec MDM-AE en utilisant les micro-services dans AWS EKS.
 
-// end::project[]
 // tag::project[]
-=== Gestion d'un repo GitHub pour centraliser les fichiers OpenAPI afin de forcer le développement des contrats avant le code.
+=== Centralisation des fichier OpenAPI
+* Création du dépôt dans GitHub
+* Création et maintenance de la documentation
+* Présentation de la solution aux architectes applicatifs et aux architectes de solutions
+* Support des développeurs pour intégrer la génération du code à partir des fichier OpenAPI
 
 // end::project[]
 // end::achivements[]
@@ -43,7 +48,3 @@ Environnement::
 * Spring webflux
 
 // end::environment[]
-
-
-
-

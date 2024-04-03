@@ -3,8 +3,9 @@
 :title-page-background-image: image:_en/cover.png[]
 :author: Jean-Charles Giardina
 :email: jean-charles.giardina@gayasystem.com
+:phone: +1 438-944-0640
 :revnumber: v1.0
-:revdate: 2024-01-09
+:revdate: 2024-03-26
 :revremark: Initial Release
 :doctype: book
 :toc:
@@ -14,22 +15,24 @@
 
 :leveloffset: +1
 
-include::./_en/contact.adoc[]
+include::./_en/professional-summary.adoc[]
 
-include::./_fr/professional-summary.adoc[]
+:leveloffset: +1
+
+include::./_en/contact.adoc[]
 
 include::./_en/languages.adoc[]
 
 include::./_en/skills.adoc[]
 
-include::./_fr/experiences.adoc[]
+:leveloffset: -1
+
+include::./_en/experiences.adoc[]
 
 // include::./_en/achievements.adoc[]
 
+include::./_en/education.adoc[]
+
 include::./_en/references.adoc[]
-
-include::./_fr/education.adoc[]
-
-include::./_fr/references.adoc[]
 
 :leveloffset: -1

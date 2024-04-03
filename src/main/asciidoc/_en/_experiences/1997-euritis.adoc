@@ -17,7 +17,7 @@ Développeur C, C++ et Java. Responsable de la maintenance de la base de donnée
 // tag::achivements[]
 // tag::project[]
 === Projets Européens
-* Développement d'applets signées utilisant des cartes à puce pour signer des documents
+* Développement d'applets signées utilisant des cartes à puce pour signer numériquement des documents électronique
 * Développement d'un proxy OCF pour piloter les lecteurs de cartes
 
 // end::project[]

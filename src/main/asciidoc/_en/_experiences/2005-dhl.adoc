@@ -2,6 +2,8 @@
 // tag::position[]
 = 2005 DHL - Développeur J2EE (Consultant)
 
+Architecture et développement d'une applications Intranet.
+
 // end::position[]
 // tag::company[]
 == DHL
