@@ -1,40 +1,40 @@
 // tag::resume[]
 // tag::position[]
-= Juillet 2023/Mars 2024 Bell Canada - Architecte de solution (Consultant)
+= July 2023/March 2024 Bell Canada - Solution Architect (Consultant)
 
-J'ai joué les rôles d'architecte de solution, d'architecte applicatif, de coach agile, de Scrum Master et de développeur en soutien aux développeur pour le projet Buzz4.
-Buzz 4 est la transformation en micro services d'un service de ticket fonctionnant sur MS SQL Server en système de discussion intéractive pour les tecniciens et les agents de Bell.
+I played the roles of solution architect, application architect, agile coach, Scrum Master and developer supporting developers for the Buzz4 project.
+Buzz 4 is the transformation into micro services of a ticket service running on MS SQL Server into an interactive discussion system for Bell technicians and agents.
 
 // end::position[]
 // tag::company[]
 == Bell Canada
-* Montréal, Canada
-* 32 000 employés
-* Télécomunications et médias
+* Montreal, Canada
+* 32,000 employees
+* Telecommunications and media
 
 // end::company[]
 // end::resume[]
 
-// tag::achivements[]
+// tag::achievements[]
 // tag::project[]
-=== Messagerie interne (Buzz 4)
-* Analyse de l'application existante
-* Conception de l'architecture de solution
-* Coaching du PO et de l'équipe de développement
-* Scrum Master du projet
-* Dévelopement d'une partie de l'application C# en soutient aux développeurs
+=== Internal messaging (Buzz 4)
+* Analysis of existing application
+* Design of the solution architecture
+* Coaching of the PO and the development team
+* Scrum Master of the project
+* Development of part of the C# application to support developers
 
 // end::project[]
-// end::achivements[]
+// end::achievements[]
 
 // tag::environment[]
-Environnement::
-* OpenShift
-* DotNet micro-services
-* MS SQL Server
+Environment::
+*OpenShift
+* DotNet microservices
+*MS SQL Server
 * Docker
 * Artifactory
-* GitLab
+*GitLab
 * Confluence
 
 // end::environment[]

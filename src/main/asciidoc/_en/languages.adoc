@@ -1,5 +1,5 @@
-= Langues
+= Languages
 
-* Français: native
-* Anglais: fluide
-* Espagnol: intermediary
+* French: native
+* English: fluide
+* Spanish: intermediary

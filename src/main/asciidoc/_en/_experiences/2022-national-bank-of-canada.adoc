@@ -1,36 +1,36 @@
 // tag::resume[]
 // tag::position[]
-= Août 2022/Mars 2023 Banque Nationale - Architecte de solution (Consultant)
+= August 2022/March 2023 National Bank - Solution Architect (Consultant)
 
-Conception de l'architecture de solution dans le projet Services numériques aux entreprises pour l'intégration des logiciels internes (GCC, BNE Holding, Customer Cash Management, les notifications Mastercard et les produits TFC) et intégration de l'application tierce BackBase Employee avec Azure AD et IIQ.
+Design of the solution architecture in the Digital Business Services project for the integration of internal software (GCC, BNE Holding, Customer Cash Management, Mastercard notifications and TFC products) and integration of the third-party application BackBase Employee with Azure AD and IIQ.
 
 // end::position[]
 // tag::company[]
-== Banque Nationale
-* Montréal, Canada
-* 3 400 employés
-* Services financiers
+== National Bank
+* Montreal, Canada
+* 3,400 employees
+* Financial services
 
 // end::company[]
 // end::resume[]
 
-// tag::achivements[]
+// tag::achievements[]
 // tag::project[]
-=== Services numériques aux entreprises.
-* Discussion coordonnée avec l'architecte de domaine et l'équipe CRM
-* Rédaction de documentation d'architecture sur Confluence à l'aide de Draw.io
-* Présentation de l'architecture à tous les architectes BNC (réunion AAA)
-* Accompagnement des développeurs
+=== Digital services for businesses.
+* Coordinated discussion with domain architect and CRM team
+* Writing architectural documentation on Confluence using Draw.io
+* Presentation of architecture to all BNC architects (AAA meeting)
+* Support for developers
 
 // end::project[]
-// end::achivements[]
+// end::achievements[]
 
 // tag::environment[]
-Environnement::
+Environment::
 * Open API
-* AWS
-* EKS
-* Istio
-* Backbase
+*AWS
+*EKS
+*Istio
+*Background
 
 // end::environment[]

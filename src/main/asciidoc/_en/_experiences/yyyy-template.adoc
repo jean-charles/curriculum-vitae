@@ -3,7 +3,7 @@
 
 // tag::resume[]
 // tag::position[]
-= MMM yyyy/MMM yyyy Company name - Poste (Consultant/Permanent)
+= MMM yyyy/MMM yyyy Company name - Position (Consultant/Permanent)
 
 Position description.
 
@@ -17,7 +17,7 @@ Position description.
 // end::company[]
 // end::resume[]
 
-// tag::achivements[]
+// tag::achievements[]
 // tag::project[]
 === Project title
 * [Strong verb] + [job duty] + [impact]
@@ -27,10 +27,10 @@ Position description.
 * Work with developers to streamline the development process and reduce production time
 
 // end::project[]
-// end::achivements[]
+// end::achievements[]
 
 // tag::environment[]
-Environnement::
+Environment::
 * Environments list
 
 // end::environment[]

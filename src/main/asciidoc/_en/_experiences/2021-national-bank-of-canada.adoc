@@ -1,50 +1,50 @@
 // tag::resume[]
 // tag::position[]
-= Août 2021/Juillet 2022 Banque Nationale - Architecte Logiciels (Consultant)
+= August 2021/July 2022 National Bank - Software Architect (Consultant)
 
-Conception d'une architecture de micro-services dans AWS EKS pour synchroniser une application de base de donnée sur site avec les applications de la banque dans le cadre du projet Services numériques aux entreprises.
-Création d'un dépôt GitHub pour centraliser les fichiers OpenAPI afin de forcer le développement des contrats avant le code.
+Design of a micro-services architecture in AWS EKS to synchronize an on-premises database application with the bank's applications as part of the Digital Business Services project.
+Creation of a GitHub repository to centralize OpenAPI files to force contract development before code.
 
 // end::position[]
 // tag::company[]
-== Banque Nationale
-* Montréal, Canada
-* 3 400 employés
-* Services financiers
+== National Bank
+* Montreal, Canada
+* 3,400 employees
+* Financial services
 
 // end::company[]
 // end::resume[]
 
-// tag::achivements[]
+// tag::achievements[]
 // tag::project[]
-=== Services numériques aux entreprises (BNE)
-* Création de l'architecture logicielle
-* Maintenance de la documentation
-* Présentation de l'architecture aux architectes applicatifs
-* Support des développeurs
+=== Digital Business Services (BNE)
+* Creation of the software architecture
+* Documentation maintenance
+* Presentation of architecture to application architects
+* Developer support
 
 // end::project[]
 
 // tag::project[]
-=== Centralisation des fichier OpenAPI
-* Création du dépôt dans GitHub
-* Création et maintenance de la documentation
-* Présentation de la solution aux architectes applicatifs et aux architectes de solutions
-* Support des développeurs pour intégrer la génération du code à partir des fichier OpenAPI
+=== Centralization of OpenAPI files
+* Creation of the repository in GitHub
+* Creation and maintenance of documentation
+* Presentation of the solution to application architects and solution architects
+* Developer support to integrate code generation from OpenAPI files
 
 // end::project[]
-// end::achivements[]
+// end::achievements[]
 
 // tag::environment[]
-Environnement::
-* Environnement SAFe (équipe applicative de plus de 100 collaborateurs)
-* AWS
-* EKS
-* SQS
+Environment::
+* SAFe environment (application team of more than 100 employees)
+*AWS
+*EKS
+*SQS
 * Kubernetes
-* Kafka
+*Kafka
 * Docker
-* Java 11
-* Spring webflux
+*Java 11
+*Spring webflux
 
 // end::environment[]

@@ -1,35 +1,35 @@
 // tag::resume[]
 // tag::position[]
-=  Mars 2023/Juin 2023 Banque Nationale Assurances - Architecte de solution (Consultant)
+= March 2023/June 2023 Banque Nationale Assurances - Solution Architect (Consultant)
 
-Conception de l'API du domaine assurance qui sera utilisée par le CRM (SAP) dans la page des avoirs des clients.
+Design of the insurance domain API which will be used by the CRM (SAP) in the customer assets page.
 
 // end::position[]
 // tag::company[]
-== Banque Nationale Assurances
-* Montréal, Canada
-* 3 400 employés
-* Services financiers
+== National Bank Insurance
+* Montreal, Canada
+* 3,400 employees
+* Financial services
 
 // end::company[]
 // end::resume[]
 
-// tag::achivements[]
+// tag::achievements[]
 // tag::project[]
-=== API du domaine assurance
-* Discussion coordonnée avec l'architecte de domaine et l'équipe CRM
-* Rédaction de documentation d'architecture sur Confluence à l'aide de Draw.io
-* Prototypage des micro services AWS EKS (Java, WebFlux et Istio)
-* Accompagnement de l'équipe de développement situé en Thaïlande
+=== Insurance domain API
+* Coordinated discussion with domain architect and CRM team
+* Writing architectural documentation on Confluence using Draw.io
+* Prototyping of AWS EKS micro services (Java, WebFlux and Istio)
+* Support of the development team located in Thailand
 
 // end::project[]
-// end::achivements[]
+// end::achievements[]
 
 // tag::environment[]
-Environnement::
+Environment::
 * Open API
-* AWS
-* EKS
-* Istio
+*AWS
+*EKS
+*Istio
 
 // end::environment[]

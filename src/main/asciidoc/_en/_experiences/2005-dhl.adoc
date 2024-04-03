@@ -1,34 +1,34 @@
 // tag::resume[]
 // tag::position[]
-= 2005 DHL - Développeur J2EE (Consultant)
+= 2005 DHL - J2EE Developer (Consultant)
 
-Architecture et développement d'une applications Intranet.
+Architecture and development of an Intranet application.
 
 // end::position[]
 // tag::company[]
-== DHL
+==DHL
 * Marseille, France
-* 600 000 employés
-* Logistique
+* 600,000 employees
+* Logistics
 
 // end::company[]
 // end::resume[]
 
-// tag::achivements[]
+// tag::achievements[]
 // tag::project[]
-=== Applications Intranet
-* Écriture de la documentation technique et des plans de tests
-* Développement J2EE avec Eclipse, Hibernate, Struts
-* Contact direct avec les utilisateurs
+=== Intranet Applications
+* Writing technical documentation and test plans
+* J2EE development with Eclipse, Hibernate, Struts
+* Direct contact with users
 
 // end::project[]
-// end::achivements[]
+// end::achievements[]
 
 // tag::environment[]
-Environnement::
-* WebLogic
-* Jboss
-* J2EE
+Environment::
+*WebLogic
+*Jboss
+*J2EE
 * Hibernate
 * Eclipse
 
