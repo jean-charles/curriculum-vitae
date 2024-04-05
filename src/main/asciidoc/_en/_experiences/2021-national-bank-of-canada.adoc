@@ -38,13 +38,13 @@ Creation of a GitHub repository to centralize OpenAPI files to force contract de
 // tag::environment[]
 Environment::
 * SAFe environment (application team of more than 100 employees)
-*AWS
-*EKS
-*SQS
+* AWS
+* EKS
+* SQS
 * Kubernetes
-*Kafka
+* Kafka
 * Docker
-*Java 11
-*Spring webflux
+* Java 11
+* Spring webflux
 
 // end::environment[]

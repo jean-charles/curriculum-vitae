@@ -28,9 +28,9 @@ Design of the solution architecture in the Digital Business Services project for
 // tag::environment[]
 Environment::
 * Open API
-*AWS
-*EKS
-*Istio
-*Background
+* AWS
+* EKS
+* Istio
+* Background
 
 // end::environment[]

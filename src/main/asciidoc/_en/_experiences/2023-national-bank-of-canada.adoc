@@ -28,8 +28,8 @@ Design of the insurance domain API which will be used by the CRM (SAP) in the cu
 // tag::environment[]
 Environment::
 * Open API
-*AWS
-*EKS
-*Istio
+* AWS
+* EKS
+* Istio
 
 // end::environment[]

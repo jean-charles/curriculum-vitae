@@ -26,7 +26,7 @@ Developer, project manager and solutions architect designing and implementing a 
 
 // end::project[]
 // tag::project[]
-===Taxman 3
+=== Taxman 3
 
 Creation of the Taxman 3 architecture using Spring Integration in order to increase raw performance tenfold.
 
@@ -59,22 +59,22 @@ Development and design of a Flex web portal. Changed the architecture to migrate
 // tag::environment[]
 Environment::
 * Eclipse
-*Git
-*Java
-*Spring
+* Git
+* Java
+* Spring
 * Spring Integration
 * Spring testing
 * Mockito
-*DBUnit
+* DBUnit
 * Multithreading
-*ExtJS
-*MQ
-*JMS
-*DB2
-*Jira
-*Splunk
-*Perl
-*UML
+* ExtJS
+* MQ
+* JMS
+* DB2
+* Jira
+* Splunk
+* Perl
+* UML
 * MS Project
 
 // end::environment[]

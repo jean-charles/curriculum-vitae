@@ -25,9 +25,9 @@ Financial app
 Environment::
 * J2EE 1.4
 * Eclipse 3.1
-*JBoss 4.0
-*LDAP
+* JBoss 4.0
+* LDAP
 * Struts 1.2
-*Oracle 9
+* Oracle 9
 
 // end::environment[]

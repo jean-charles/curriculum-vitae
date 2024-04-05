@@ -35,11 +35,11 @@ Java architecture, design and development of server applications in the mobile f
 
 // tag::environment[]
 Environment::
-*Java
-*OSGI framework
+* Java
+* OSGI framework
 * Eclipse
-*JAXB
-*XML
-*XSLT
+* JAXB
+* XML
+* XSLT
 
 // end::environment[]

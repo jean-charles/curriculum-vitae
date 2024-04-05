@@ -2,7 +2,7 @@
 // tag::position[]
 = 2006/2007 CMS Bureau Francis Lefebvre - Architecte J2EE (Consultant)
 
-Développement d'une application de gestion et de comptabilité.
+Développement d'un progiciel en gestion financière et comptable, au sein de l'équipe OpenIris Finance.
 
 // end::position[]
 // tag::company[]
@@ -27,10 +27,10 @@ Développement d'une application de gestion et de comptabilité.
 
 // tag::environment[]
 Environnement::
-* J2EE
+* J2EE, EJB, DAO, Struts, JSP
 * Eclipse
 * JBoss
-* Struts
+* PostGreSQL
 * NQI
 * Junit
 * Cactus

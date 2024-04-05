@@ -6,7 +6,7 @@ Architecture and development of an Intranet application.
 
 // end::position[]
 // tag::company[]
-==DHL
+== DHL
 * Marseille, France
 * 600,000 employees
 * Logistics
@@ -26,9 +26,9 @@ Architecture and development of an Intranet application.
 
 // tag::environment[]
 Environment::
-*WebLogic
-*Jboss
-*J2EE
+* WebLogic
+* Jboss
+* J2EE
 * Hibernate
 * Eclipse
 

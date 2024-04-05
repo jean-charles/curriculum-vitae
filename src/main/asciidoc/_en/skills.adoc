@@ -1,17 +1,14 @@
 = Skills
 
-* Jira
+* Amazon Web Services
+* Google Cloud Platform
 * Confluence
-* Visio
 * Draw.io
 * LucidChart
-* AWS
+* Git
+* Jira
+* Visio
 * Spring
 * JPA
-* Git
-* Angular
 * SQL
-* IntelliJ
-* Eclipse
-* Visual Studio
 * Unix

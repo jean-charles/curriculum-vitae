@@ -37,11 +37,11 @@ J3EE architect in charge of integrating the steel quality analysis engine into t
 
 // tag::environment[]
 Environment::
-*J2EE
+* J2EE
 * Eclipse
-*Tomcat
+* Tomcat
 * Struts
-*Junit
-*JRules
+* Junit
+* JRules
 
 // end::environment[]
