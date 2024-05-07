@@ -1,6 +1,6 @@
 // tag::resume[]
 // tag::position[]
-= November 2011/December 2020 Morgan Stanley - Senior Java Developer (Permanent)
+= November 2011/December 2020 Morgan Stanley - Senior Java Developer/Solution Architect (Permanent)
 
 Enterprise Application Development, Delivery Manager and Solutions Architect – US Institutional Tax Withholding.
 

@@ -1,4 +1,4 @@
-= Architecte de Solution
+= Architecte Solution
 :author: Jean-Charles Giardina
 :email: jean-charles.giardina@gayasystem.com
 :revnumber: v1.0

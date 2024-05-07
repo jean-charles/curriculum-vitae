@@ -38,6 +38,7 @@ Creation of a GitHub repository to centralize OpenAPI files to force contract de
 // tag::environment[]
 Environment::
 * SAFe environment (application team of more than 100 employees)
+* ArchiMate®
 * AWS
 * EKS
 * SQS

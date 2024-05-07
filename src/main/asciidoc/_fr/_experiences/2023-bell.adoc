@@ -1,8 +1,8 @@
 // tag::resume[]
 // tag::position[]
-= Juillet 2023/Mars 2024 Bell Canada - Architecte de solution (Consultant)
+= Juillet 2023/Mars 2024 Bell Canada - Architecte Solution (Consultant)
 
-J'ai joué les rôles d'architecte de solution, d'architecte applicatif, de coach agile, de Scrum Master et de développeur en soutien aux développeur pour le projet Buzz4.
+J'ai joué les rôles d'Architecte Solution, d'architecte applicatif, de coach agile, de Scrum Master et de développeur en soutien aux développeur pour le projet Buzz4.
 Buzz 4 est la transformation en micro services d'un service de ticket fonctionnant sur MS SQL Server en système de discussion intéractive pour les tecniciens et les agents de Bell.
 
 // end::position[]

@@ -1,8 +1,8 @@
 // tag::resume[]
 // tag::position[]
-= Novembre 2011/Décembre 2020 Morgan Stanley - Développeur Java Sénior (Permanent)
+= Novembre 2011/Décembre 2020 Morgan Stanley - Développeur Java Sénior/Architecte Solution (Permanent)
 
-Développement d'applications d'entreprise, gestionnaire de livraison et architecte de solutions – Retenue d'impôt institutionnel aux États-Unis.
+Développement d'applications d'entreprise, gestionnaire de livraison et Architecte Solution – Retenue d'impôt institutionnel aux États-Unis.
 
 // end::position[]
 // tag::company[]
@@ -18,7 +18,7 @@ Développement d'applications d'entreprise, gestionnaire de livraison et archite
 // tag::project[]
 === 871m
 
-Développeur, chef de projet et architecte de solutions à la conception et à la mise en œuvre d'un nouveau système de capture de transactions et d'agrégation de flux de trésorerie pour les dérivés actions.
+Développeur, chef de projet et Architecte Solution à la conception et à la mise en œuvre d'un nouveau système de capture de transactions et d'agrégation de flux de trésorerie pour les dérivés actions.
 
 * Utilisation de l'architecture de Taxman 3
 * Création de la documentation applicative

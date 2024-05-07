@@ -39,6 +39,7 @@ Création d'un dépôt GitHub pour centraliser les fichiers OpenAPI afin de forc
 Environnement::
 * Environnement SAFe (équipe applicative de plus de 100 collaborateurs)
 * AWS
+* ArchiMate®
 * EKS
 * SQS
 * Kubernetes

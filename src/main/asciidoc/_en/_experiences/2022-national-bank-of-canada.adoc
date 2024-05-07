@@ -28,6 +28,7 @@ Design of the solution architecture in the Digital Business Services project for
 // tag::environment[]
 Environment::
 * Open API
+* ArchiMate®
 * AWS
 * EKS
 * Istio

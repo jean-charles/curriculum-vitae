@@ -1,6 +1,6 @@
 // tag::resume[]
 // tag::position[]
-= Août 2022/Mars 2023 Banque Nationale - Architecte de solution (Consultant)
+= Août 2022/Mars 2023 Banque Nationale - Architecte Solution (Consultant)
 
 Conception de l'architecture de solution dans le projet Services numériques aux entreprises pour l'intégration des logiciels internes (GCC, BNE Holding, Customer Cash Management, les notifications Mastercard et les produits TFC) et intégration de l'application tierce BackBase Employee avec Azure AD et IIQ.
 
@@ -28,6 +28,7 @@ Conception de l'architecture de solution dans le projet Services numériques aux
 // tag::environment[]
 Environnement::
 * Open API
+* ArchiMate®
 * AWS
 * EKS
 * Istio

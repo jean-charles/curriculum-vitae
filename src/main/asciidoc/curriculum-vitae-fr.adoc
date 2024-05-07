@@ -1,5 +1,5 @@
 [%notitle]
-= Architecte de Solution
+= Architecte Solution
 :title-page-background-image: image:_fr/cover.png[]
 :author: Jean-Charles Giardina
 :email: jean-charles.giardina@gayasystem.com
