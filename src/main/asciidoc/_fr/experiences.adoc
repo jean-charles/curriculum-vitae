@@ -4,6 +4,8 @@
 
 :leveloffset: +1
 
+include::./_experiences/2024-Desjardins.adoc[]
+
 include::./_experiences/2023-bell.adoc[]
 
 include::./_experiences/2023-national-bank-of-canada.adoc[]
