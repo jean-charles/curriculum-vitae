@@ -1,0 +1,32 @@
+// tag::resume[]
+// tag::position[]
+= June 2024/Actuel Desjardins - Solution Architect Integrator (Consultant)
+
+Responsible for modernizing the cross-functional communications architecture for Wealth Management and Personal Insurance.
+
+// end::position[]
+// tag::company[]
+== Company name
+* Montreal, Canada
+* 58 000 employees
+* Financial institutions
+
+// end::company[]
+// end::resume[]
+
+// tag::achivements[]
+// tag::project[]
+=== Project title
+* Analysis of needs and requirements with business analysts
+* Design of context diagrams of the target architecture
+* Presentation of the architecture to stakeholders
+// end::project[]
+// end::achivements[]
+
+// tag::environment[]
+Environnement::
+* Bizz Design / Horrizon
+* Confluence
+* Gliffy
+
+// end::environment[]

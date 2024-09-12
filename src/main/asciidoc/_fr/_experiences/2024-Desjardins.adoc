@@ -1,0 +1,33 @@
+// tag::resume[]
+// tag::position[]
+= Juin 2024/Actuel Desjardins - Architecte Solution Intégrateur (Consultant)
+
+Responsable de la modernisation de l'architecture des communications transverse pour Gestion de Patrimoine et Assurances de Personnes.
+
+// end::position[]
+// tag::company[]
+== Mouvement Desjardins
+* Montréal, Canada
+* 58 000 employé.e.s
+* Institutions financières
+
+// end::company[]
+// end::resume[]
+
+// tag::achivements[]
+// tag::project[]
+=== Modernisation GPAP
+* Analyse des besoins et des exigences avec les analystes d'affaires
+* Conception des diagrammes de contexte de l'architecture cible
+* Présentation de l'architecture aux parties prenantes
+
+// end::project[]
+// end::achivements[]
+
+// tag::environment[]
+Environnement::
+* Bizz Design / Horrizon
+* Confluence
+* Gliffy
+
+// end::environment[]
