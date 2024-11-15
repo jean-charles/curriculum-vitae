@@ -1,6 +1,6 @@
 // tag::resume[]
 // tag::position[]
-= June 2024/Actuel Desjardins - Solution Architect Integrator (Consultant)
+= June 2024/Current Desjardins - Solution Architect Integrator (Consultant)
 
 Responsible for modernizing the cross-functional communications architecture for Wealth Management and Personal Insurance.
 
