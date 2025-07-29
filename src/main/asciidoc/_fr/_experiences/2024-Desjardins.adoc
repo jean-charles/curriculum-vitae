@@ -20,6 +20,9 @@ Responsable de la modernisation de l'architecture des communications transverse 
 * Analyse des besoins et des exigences avec les analystes d'affaires
 * Conception des diagrammes de contexte de l'architecture cible
 * Présentation de l'architecture aux parties prenantes
+* Socialisation des solutions au près des directeurs
+* Présentation de la solution au comité des architectes Desjardins
+* Supports des développeurs pour la réalisation de la solution
 
 // end::project[]
 // end::achivements[]
@@ -27,7 +30,8 @@ Responsable de la modernisation de l'architecture des communications transverse 
 // tag::environment[]
 Environnement::
 * Bizz Design / Horrizon
+* Kafka (Confluent Cloud)
 * Confluence
-* Gliffy
+* Jira
 
 // end::environment[]
