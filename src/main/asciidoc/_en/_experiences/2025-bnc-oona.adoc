@@ -1,0 +1,40 @@
+# https://resumeworded.com/solutions-architect-resume-examples
+# https://www.indeed.com/career-advice/resumes-cover-letters/solution-architect-resume
+
+// tag::resume[]
+// tag::position[]
+= September 2025/December 2025 NBC - Solution Architecte (Consultant)
+
+Position description.
+
+// end::position[]
+// tag::company[]
+== Banque nationale du Canada
+* Montreal, Canada
+* 29 000 employees
+* Financial services
+
+// end::company[]
+// end::resume[]
+
+// tag::achivements[]
+// tag::project[]
+=== Banque numérique
+* [Strong verb] + [job duty] + [impact]
+* Analyze IT infrastructure needs to determine project scope and resources
+* Designed and implemented new cloud architecture solutions for clients, reducing customer churn by 30%
+* Translate technical specifications for systems into product requirements and internal documents
+* Work with developers to streamline the development process and reduce production time
+
+// end::project[]
+// end::achivements[]
+
+// tag::environment[]
+Environnement::
+* AWS
+* Golang
+* Confluence
+* Jira
+* EventCatalog
+
+// end::environment[]
