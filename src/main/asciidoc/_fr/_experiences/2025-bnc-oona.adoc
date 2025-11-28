@@ -1,0 +1,40 @@
+# https://resumeworded.com/solutions-architect-resume-examples
+# https://www.indeed.com/career-advice/resumes-cover-letters/solution-architect-resume
+
+// tag::resume[]
+// tag::position[]
+= Septembre 2025/Décombre 2025 BNC - Architecte de Solution (Consultant)
+
+Position description.
+
+// end::position[]
+// tag::company[]
+== Company name
+* Montréal, Canada
+* 9 000 employés
+* Services financiers
+
+// end::company[]
+// end::resume[]
+
+// tag::achivements[]
+// tag::project[]
+=== Project title
+* Concevoir des architectures robustes pour les systèmes critiques afin d’assurer la sécurité et la conformité réglementaire dans un environnement financier complexe.
+* Orchestrer l’intégration de solutions technologiques innovantes pour optimiser les processus bancaires et réduire les coûts opérationnels.
+* Piloter la définition des standards d’architecture afin de garantir la cohérence et la scalabilité des plateformes numériques.
+* Évaluer les risques technologiques et proposer des stratégies adaptées pour préserver la résilience et la continuité des services financiers.
+
+// end::project[]
+// end::achivements[]
+
+// tag::environment[]
+Environnement::
+* AWS
+* Confluence
+* Jira
+* Contentful
+* Salesforce
+* Golang
+
+// end::environment[]
