@@ -7,7 +7,7 @@ on:
   workflow_dispatch: # Manual build
 
 jobs:
-  build:
+  build-fr:
     runs-on: ubuntu-latest
     container:
       image: sauerburger/pdflatex
@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Compile LaTeX curriculum vitae
-        run: pdflatex src/curriculum-vitae.tex
+        run: pdflatex src/fr/curriculum-vitae.tex
 
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v4
