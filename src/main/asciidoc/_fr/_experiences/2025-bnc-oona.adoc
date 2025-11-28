@@ -1,9 +1,6 @@
-# https://resumeworded.com/solutions-architect-resume-examples
-# https://www.indeed.com/career-advice/resumes-cover-letters/solution-architect-resume
-
 // tag::resume[]
 // tag::position[]
-= Septembre 2025/Décombre 2025 BNC - Architecte de Solution (Consultant)
+= Septembre 2025/Décembre 2025 BNC - Architecte de Solution (Consultant)
 
 Position description.
 
@@ -11,7 +8,7 @@ Position description.
 // tag::company[]
 == Company name
 * Montréal, Canada
-* 9 000 employés
+* 29 000 employés
 * Services financiers
 
 // end::company[]
