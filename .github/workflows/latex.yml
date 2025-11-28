@@ -1,0 +1,26 @@
+name: Build PDF
+
+on:
+  push:
+    branches:
+      - '**' # All branches
+  workflow_dispatch: # Manual build
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container:
+      image: sauerburger/pdflatex
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Compile LaTeX curriculum vitae
+        run: pdflatex src/curriculum-vitae.tex
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: curriculum-vitae-pdf
+          path: curriculum-vitae.pdf
+          retention-days: 1
