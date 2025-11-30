@@ -1,4 +1,4 @@
-name: Build PDF
+name: Build Curriculum Vitae
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
   workflow_dispatch: # Manual build
 
 jobs:
-  build-fr:
+  build-french-cv:
     runs-on: ubuntu-latest
     container:
       image: sauerburger/pdflatex
@@ -16,11 +16,31 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Compile LaTeX curriculum vitae
-        run: pdflatex src/fr/curriculum-vitae.tex
+        working-directory: ./src/fr/
+        run: pdflatex ./curriculum-vitae.tex
 
       - name: Upload PDF artifact
         uses: actions/upload-artifact@v4
         with:
-          name: curriculum-vitae-pdf
-          path: curriculum-vitae.pdf
+          name: curriculum-vitae-fr
+          path: ./src/fr/curriculum-vitae.pdf
+          retention-days: 1
+
+  build-nglish-cv:
+    runs-on: ubuntu-latest
+    container:
+      image: sauerburger/pdflatex
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Compile LaTeX curriculum vitae
+        working-directory: ./src/en/
+        run: pdflatex ./curriculum-vitae.tex
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: curriculum-vitae-en
+          path: ./src/en/curriculum-vitae.pdf
           retention-days: 1
