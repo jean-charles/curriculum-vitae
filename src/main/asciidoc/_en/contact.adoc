@@ -1,6 +1,0 @@
-= Contact
-
-* {author} <{email}>
-* {phone}
-* http://bit.ly/linkedin-jcg
-* Montreal (QC), Canada
