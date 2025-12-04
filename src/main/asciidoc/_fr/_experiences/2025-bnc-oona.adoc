@@ -6,7 +6,7 @@ Responsable de la conception et de la mise en œuvre d'architectures robustes et
 
 // end::position[]
 // tag::company[]
-== Company name
+== Banque Nationale du Canada
 * Montréal, Canada
 * 29 000 employés
 * Services financiers
