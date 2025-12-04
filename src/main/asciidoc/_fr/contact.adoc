@@ -3,4 +3,4 @@
 * {author} <{email}>
 * {phone}
 * http://bit.ly/linkedin-jcg
-* Montréal (QC), Canada
+* Amherst (QC), Canada
