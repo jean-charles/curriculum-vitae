@@ -2,7 +2,7 @@
 // tag::position[]
 = Septembre 2025/Décembre 2025 BNC - Architecte de Solution (Consultant)
 
-Position description.
+Responsable de la conception et de la mise en œuvre d'architectures robustes et évolutives pour des systèmes critiques dans un contexte bancaire complexe.
 
 // end::position[]
 // tag::company[]
