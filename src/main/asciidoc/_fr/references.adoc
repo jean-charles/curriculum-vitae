@@ -1,5 +1,17 @@
 = Références
 
+Banque Nationale du Canada (2025)::
+* https://www.linkedin.com/in/maxime-bellerose-83543013[Maxime Bellerose]
+* https://www.linkedin.com/in/valentinbackofen[Valentin Backofen]
+* https://www.linkedin.com/in/jfblouin[Jean-Francois Blouin]
+* https://www.linkedin.com/in/evans-simard-9bb1796[Evans Simard]
+
+Desjardins::
+* https://www.linkedin.com/in/wassimmekari[Wassim Mekari]
+* https://www.linkedin.com/in/antoinecarbonellbornay[Antoine Carbonell]
+* https://www.linkedin.com/in/joseeboisvert[Josée Boisvert]
+* https://www.linkedin.com/in/martin-blais-34297120[Martin Blais]
+
 Bell Canada::
 * https://www.linkedin.com/in/philippe-fortin-043b0284/[Philippe Fortin]
 * https://www.linkedin.com/in/zakaria-rafiq-92964268/[Zakaria Rafiq]
@@ -10,7 +22,7 @@ Banque Nationale Assurance::
 * https://www.linkedin.com/in/kathleenlancup/[Kathleen Lancup]
 * https://www.linkedin.com/in/yvan-brais-10075a212/[Yvan Brais]
 
-Banque Nationale::
+Banque Nationale du Canada (2021)::
 * https://www.linkedin.com/in/gpatenaude/[Guillaume Patenaude]
 * https://www.linkedin.com/in/jérémie-fontanaud-61909a33/[Jérémie Fontanaud]
 * https://www.linkedin.com/in/saadbenbouzid/[Saad Benbouzid]
