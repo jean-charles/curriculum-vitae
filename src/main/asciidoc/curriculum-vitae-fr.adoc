@@ -2,7 +2,7 @@
 = Architecte Solution
 :title-page-background-image: image:_fr/cover.png[]
 :author: Jean-Charles Giardina
-:email: jean-charles.giardina@gayasystem.com
+:email: jean-charles.giardina@gayasysteme.com
 :phone: +1 438-944-0640
 :revnumber: v1.0
 :revdate: 2024-03-26
