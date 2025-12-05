@@ -6,6 +6,8 @@ jobs:
   build-en:
     name: English Curriculum Vitae
     runs-on: ubuntu-latest
+    container:
+      sauerburger/pdflatex
 
     steps:
     - uses: actions/checkout@v4
@@ -23,6 +25,8 @@ jobs:
   build-fr:
     name: French Curriculum Vitae
     runs-on: ubuntu-latest
+    container:
+      sauerburger/pdflatex
 
     steps:
     - uses: actions/checkout@v4
