@@ -6,4 +6,4 @@ curriculum-vitae-fr.pdf:
 	pdflatex curriculum-vitae-fr.tex
 
 clean:
-	rm $(objects)
+	rm -f $(objects)
