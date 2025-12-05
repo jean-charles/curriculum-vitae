@@ -1,0 +1,30 @@
+\documentclass[../curriculum-vitae.tex]{subfiles}
+
+\title{Architecte de Solution}
+
+\begin{document}
+    \selectlanguage{french}
+    \begin{titlepage}
+        \newgeometry{top=0cm, bottom=0cm, outer=0cm, inner=0cm}
+        \tikz[remember picture,overlay] \node[inner sep=0pt] at (current page.center){\includegraphics[width=\paperwidth,height=\paperheight]{cover.png}};
+        \afterpage{\aftergroup\restoregeometry}
+    \end{titlepage}
+
+    \tableofcontents
+
+    \frontmatter
+        \subfile{professional-summary}
+
+    \mainmatter
+        \subfile{experiences}
+
+    \appendix
+        \subfile{contact}
+        \subfile{languages}
+        \subfile{references}
+        \subfile{education}
+        \subfile{skills}
+
+%    \backmatter
+%        \subfile{achievements}
+\end{document}

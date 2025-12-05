@@ -1,0 +1,99 @@
+\babel@toc {nil}{}\relax 
+\contentsline {chapter}{Professional Summary}{i}{chapter*.2}%
+\contentsline {chapter}{\numberline {1}Septembre 2025/Décombre 2025 BNC - Architecte de Solution (Consultant)}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Banque Nationale du Canada}{1}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Le projet}{1}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}L'environnement de travail}{1}{subsection.1.1.2}%
+\contentsline {chapter}{\numberline {2}Juin 2024/Actuel Desjardins - Architecte Solution Intégrateur (Consultant)}{2}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Mouvement Desjardins}{2}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Modernisation GPAP}{2}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}L'environnement de travail}{2}{subsection.2.1.2}%
+\contentsline {chapter}{\numberline {3}Juillet 2023/Mars 2024 Bell Canada - Architecte Solution (Consultant)}{3}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Bell Canada}{3}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Messagerie interne (Buzz 4)}{3}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}L'environnement de travail}{3}{subsection.3.1.2}%
+\contentsline {chapter}{\numberline {4}Mars 2023/Juin 2023 Banque Nationale Assurances - Architecte Solution (Consultant)}{4}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Banque Nationale Assurances}{4}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}API du domaine assurance}{4}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}L'environnement de travail}{4}{subsection.4.1.2}%
+\contentsline {chapter}{\numberline {5}Août 2022/Mars 2023 Banque Nationale - Architecte Solution (Consultant)}{5}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Banque Nationale}{5}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Services numériques aux entreprises}{5}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}L'environnement de travail}{5}{subsection.5.1.2}%
+\contentsline {chapter}{\numberline {6}Août 2021/Juillet 2022 Banque Nationale - Architecte Logiciels (Consultant)}{6}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Banque Nationale}{6}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Services numériques aux entreprises (BNE)}{6}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Centralisation des fichier OpenAPI}{6}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}L'environnement de travail}{6}{subsection.6.1.3}%
+\contentsline {chapter}{\numberline {7}Novembre 2011/Décembre 2020 Morgan Stanley - Développeur Java Sénior/Architecte Solution (Permanent)}{8}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Morgan Stanley}{8}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}871m}{8}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}Taxman 3}{8}{subsection.7.1.2}%
+\contentsline {subsection}{\numberline {7.1.3}Taxman 2}{8}{subsection.7.1.3}%
+\contentsline {subsection}{\numberline {7.1.4}Customer Tax Portal}{9}{subsection.7.1.4}%
+\contentsline {subsection}{\numberline {7.1.5}L'environnement de travail}{9}{subsection.7.1.5}%
+\contentsline {chapter}{\numberline {8}2007/2011 Gemalto - Développeur Java Sénior - (Permanent)}{10}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Gemalto}{10}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}Produit SIMMessenger. Développement d'une passerelle pour la messagerie instantanée sur mobile à l'aide de SMS}{10}{subsection.8.1.1}%
+\contentsline {subsection}{\numberline {8.1.2}Services financiers mobile}{10}{subsection.8.1.2}%
+\contentsline {subsection}{\numberline {8.1.3}L'environnement de travail}{10}{subsection.8.1.3}%
+\contentsline {chapter}{\numberline {9}2006/2007 CMS Bureau Francis Lefebvre - Architecte J2EE (Consultant)}{11}{chapter.9}%
+\contentsline {section}{\numberline {9.1}CMS Bureau Francis Lefebvre}{11}{section.9.1}%
+\contentsline {subsection}{\numberline {9.1.1}Application de gestion et de comptabilité}{11}{subsection.9.1.1}%
+\contentsline {subsection}{\numberline {9.1.2}L'environnement de travail}{11}{subsection.9.1.2}%
+\contentsline {chapter}{\numberline {10}2006 ST Microelectronics - Architecte J2EE (Consultant)}{12}{chapter.10}%
+\contentsline {section}{\numberline {10.1}ST Microelectronics}{12}{section.10.1}%
+\contentsline {subsection}{\numberline {10.1.1}Le projet}{12}{subsection.10.1.1}%
+\contentsline {subsection}{\numberline {10.1.2}L'environnement de travail}{12}{subsection.10.1.2}%
+\contentsline {chapter}{\numberline {11}2005/2006 ArcelorMittal - Architecte J2EE (Consultant)}{13}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Arcelor Mittal}{13}{section.11.1}%
+\contentsline {subsection}{\numberline {11.1.1}Application d'aide à la qualification de la qualité de production}{13}{subsection.11.1.1}%
+\contentsline {subsection}{\numberline {11.1.2}Application de simulation de production d'acier}{13}{subsection.11.1.2}%
+\contentsline {subsection}{\numberline {11.1.3}L'environnement de travail}{13}{subsection.11.1.3}%
+\contentsline {chapter}{\numberline {12}2005 DHL - Développeur J2EE (Consultant)}{15}{chapter.12}%
+\contentsline {section}{\numberline {12.1}DHL}{15}{section.12.1}%
+\contentsline {subsection}{\numberline {12.1.1}Applications Intranet}{15}{subsection.12.1.1}%
+\contentsline {subsection}{\numberline {12.1.2}L'environnement de travail}{15}{subsection.12.1.2}%
+\contentsline {chapter}{\numberline {13}1999/2003 Gemplus - Développeur Java (Permanent)}{16}{chapter.13}%
+\contentsline {section}{\numberline {13.1}Gemplus}{16}{section.13.1}%
+\contentsline {subsection}{\numberline {13.1.1}Plate-forme d'envoi de SMS pour les clients GSM}{16}{subsection.13.1.1}%
+\contentsline {subsection}{\numberline {13.1.2}Migration de plate-forme applicatives}{16}{subsection.13.1.2}%
+\contentsline {subsection}{\numberline {13.1.3}Application de commerce électronique BtoB (Projet Gem2B)}{16}{subsection.13.1.3}%
+\contentsline {subsection}{\numberline {13.1.4}Développement d'un serveur d'importation de donnée bancaire}{16}{subsection.13.1.4}%
+\contentsline {subsection}{\numberline {13.1.5}Site de gestion de contenu pour le projet Européen Telenet}{17}{subsection.13.1.5}%
+\contentsline {subsection}{\numberline {13.1.6}Sécurisation de plate-forme HTTP à l'aide de carte à puce}{17}{subsection.13.1.6}%
+\contentsline {subsection}{\numberline {13.1.7}Projet Européen FILIGRANE}{17}{subsection.13.1.7}%
+\contentsline {subsection}{\numberline {13.1.8}Projet Européen CITIES}{17}{subsection.13.1.8}%
+\contentsline {subsection}{\numberline {13.1.9}L'environnement de travail}{17}{subsection.13.1.9}%
+\contentsline {chapter}{\numberline {14}1997/1999 Euritis - Développeur C \& Java (Permanent)}{19}{chapter.14}%
+\contentsline {section}{\numberline {14.1}Euritis}{19}{section.14.1}%
+\contentsline {subsection}{\numberline {14.1.1}Projets Européens}{19}{subsection.14.1.1}%
+\contentsline {subsection}{\numberline {14.1.2}Mise oeuvre d'un environnement de développement pour JavaCard GSM}{19}{subsection.14.1.2}%
+\contentsline {subsection}{\numberline {14.1.3}Développement d'un serveur de base de donnée documentaire}{19}{subsection.14.1.3}%
+\contentsline {subsection}{\numberline {14.1.4}L'environnement de travail}{19}{subsection.14.1.4}%
+\contentsline {chapter}{\numberline {15}Achievements}{21}{chapter.15}%
+\contentsline {chapter}{\numberline {16}Contact}{22}{chapter.16}%
+\contentsline {section}{\numberline {16.1}Information}{22}{section.16.1}%
+\contentsline {section}{\numberline {16.2}Network}{22}{section.16.2}%
+\contentsline {chapter}{\numberline {17}Education}{23}{chapter.17}%
+\contentsline {section}{\numberline {17.1}2004: Training in SME Marketing}{23}{section.17.1}%
+\contentsline {section}{\numberline {17.2}2003: Training in Business Creation}{23}{section.17.2}%
+\contentsline {section}{\numberline {17.3}1999: Master's Degree in Software Development}{23}{section.17.3}%
+\contentsline {section}{\numberline {17.4}1996: BTS (Advanced Vocational Diploma) in Industrial Computing}{23}{section.17.4}%
+\contentsline {section}{\numberline {17.5}1994: Baccalaureate in Electrotechnics}{23}{section.17.5}%
+\contentsline {chapter}{\numberline {18}Languages}{24}{chapter.18}%
+\contentsline {chapter}{\numberline {19}Références}{25}{chapter.19}%
+\contentsline {section}{\numberline {19.1}National Bank of Canada (2025)}{25}{section.19.1}%
+\contentsline {section}{\numberline {19.2}Desjardins (2024-2025)}{25}{section.19.2}%
+\contentsline {section}{\numberline {19.3}Bell Canada (203-2024)}{25}{section.19.3}%
+\contentsline {section}{\numberline {19.4}National Bank Insurance (2023)}{25}{section.19.4}%
+\contentsline {section}{\numberline {19.5}National Bank of Canada (2021-2023)}{25}{section.19.5}%
+\contentsline {section}{\numberline {19.6}Morgan Stanley (2011-2021)}{26}{section.19.6}%
+\contentsline {section}{\numberline {19.7}Gemalto (2007-2011)}{26}{section.19.7}%
+\contentsline {chapter}{\numberline {20}Skills}{27}{chapter.20}%
+\contentsline {section}{\numberline {20.1}Cloud Services}{27}{section.20.1}%
+\contentsline {section}{\numberline {20.2}Documentation and project management}{27}{section.20.2}%
+\contentsline {section}{\numberline {20.3}CI/CD}{27}{section.20.3}%
+\contentsline {section}{\numberline {20.4}Development languages}{27}{section.20.4}%
+\contentsline {chapter}{\numberline {A}Annexe}{28}{appendix.A}%
+\contentsline {chapter}{Épilogue}{29}{appendix*.3}%
