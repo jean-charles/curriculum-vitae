@@ -1,0 +1,38 @@
+name: Curricula vitae
+
+on: [push, pull_request, workflow_call]
+
+jobs:
+  build-en:
+    name: English Curriculum Vitae
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Build Curriculum Vitae
+      run: make english
+
+    - name: Archive the Curriculum Vitae
+      uses: actions/upload-artifact@v3
+      with:
+        name: curriculum-vitae-en
+        path: curriculum-vitae-en.pdf
+        retention-days: 7
+
+  build-fr:
+    name: French Curriculum Vitae
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Build Curriculum Vitae
+      run: make french
+
+    - name: Archive the Curriculum Vitae
+      uses: actions/upload-artifact@v3
+      with:
+        name: curriculum-vitae-fr
+        path: curriculum-vitae-fr.pdf
+        retention-days: 7
